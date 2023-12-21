@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3885-8gqc-3wpf",
-	"modified": "2023-12-06T01:02:15.995940Z",
+	"modified": "2023-12-21T00:46:23.954525Z",
 	"published": "2022-06-14T21:57:52Z",
 	"aliases": [
 		"BIT-dotnet-2022-30184",
@@ -660,6 +660,14 @@
 		{
 			"type": "PACKAGE",
 			"url": "https://github.com/NuGet/NuGet.Client"
+		},
+		{
+			"type": "WEB",
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/DMP34G53EA2DBTBLFOAQCDZRRENE2EA2/"
+		},
+		{
+			"type": "WEB",
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/XWNH4AC3LFVX35MDRX5OBZDGD2AMH66K/"
 		},
 		{
 			"type": "WEB",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fcg8-mg9g-6hc4",
-	"modified": "2023-12-06T01:02:12.930108Z",
+	"modified": "2023-12-21T00:48:00.206180Z",
 	"published": "2022-08-30T19:35:52Z",
 	"aliases": [
 		"BIT-dotnet-2022-29145",
@@ -1371,6 +1371,18 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2022-29145"
+		},
+		{
+			"type": "WEB",
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/GNXQL7EZORGU4PZCPJ5EPQ4P7IEY3ZZO/"
+		},
+		{
+			"type": "WEB",
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/IBYSBUDJYQ76HK4TULXVIIPCKK2U6WDB/"
+		},
+		{
+			"type": "WEB",
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/W5FPEQ6BTYRGTS6IYCDTZW6YF5HLQ3BY/"
 		},
 		{
 			"type": "WEB",

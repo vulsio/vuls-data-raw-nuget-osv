@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-485p-mrj5-8w2v",
-	"modified": "2023-12-06T01:01:58.590683Z",
+	"modified": "2023-12-21T00:47:02.755946Z",
 	"published": "2022-10-21T20:50:24Z",
 	"aliases": [
 		"BIT-dotnet-2022-23267",
@@ -1382,6 +1382,18 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/dotnet/announcements/issues/221"
+		},
+		{
+			"type": "WEB",
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/GNXQL7EZORGU4PZCPJ5EPQ4P7IEY3ZZO/"
+		},
+		{
+			"type": "WEB",
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/IBYSBUDJYQ76HK4TULXVIIPCKK2U6WDB/"
+		},
+		{
+			"type": "WEB",
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/W5FPEQ6BTYRGTS6IYCDTZW6YF5HLQ3BY/"
 		},
 		{
 			"type": "WEB",
