@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-r8m2-4x37-6592",
-	"modified": "2023-12-06T01:02:31.290937Z",
+	"modified": "2023-12-20T22:04:20.257030Z",
 	"published": "2022-09-15T03:25:36Z",
 	"aliases": [
 		"BIT-dotnet-2022-38013",
@@ -1170,6 +1170,26 @@
 		{
 			"type": "PACKAGE",
 			"url": "https://github.com/dotnet/aspnetcore"
+		},
+		{
+			"type": "WEB",
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/2CUL3Z7MEED7RFQZVGQL2MTKSFFZKAAY/"
+		},
+		{
+			"type": "WEB",
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/7HCV4TQGOTOFHO5ETRKGFKAGYV2YAUVE/"
+		},
+		{
+			"type": "WEB",
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/JA6F4CDKLI3MALV6UK3P2DR5AGCLTT7Y/"
+		},
+		{
+			"type": "WEB",
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/K4K5YL7USOKIR3O2DUKBZMYPWXYPDKXG/"
+		},
+		{
+			"type": "WEB",
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/WL334CKOHA6BQQSYJW365HIWJ4IOE45M/"
 		},
 		{
 			"type": "WEB",
