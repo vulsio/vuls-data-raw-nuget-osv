@@ -1,9 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-98g6-xh36-x2p7",
-	"modified": "2024-01-16T19:26:42.689168Z",
+	"modified": "2024-01-17T08:11:44.407148Z",
 	"published": "2024-01-09T18:30:27Z",
 	"aliases": [
+		"BIT-dotnet-2024-0056",
+		"BIT-dotnet-sdk-2024-0056",
 		"CVE-2024-0056"
 	],
 	"summary": "Microsoft.Data.SqlClient and System.Data.SqlClient vulnerable to SQL Data Provider Security Feature Bypass",
