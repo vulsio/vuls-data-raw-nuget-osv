@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-pv36-h7jh-qm62",
-	"modified": "2023-11-08T04:02:38.766050Z",
+	"modified": "2024-01-19T19:34:49.367123Z",
 	"published": "2020-10-27T19:47:38Z",
 	"aliases": [
 		"ASB-A-171232105",
@@ -408,6 +408,10 @@
 		},
 		{
 			"type": "WEB",
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/J3QVIGAAJ4D62YEJAJJWMCCBCOQ6TVL7/"
+		},
+		{
+			"type": "WEB",
 			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/J3QVIGAAJ4D62YEJAJJWMCCBCOQ6TVL7/"
 		},
 		{
@@ -417,6 +421,10 @@
 		{
 			"type": "WEB",
 			"url": "https://security.gentoo.org/glsa/202012-04"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security.gentoo.org/glsa/202401-19"
 		},
 		{
 			"type": "WEB",
