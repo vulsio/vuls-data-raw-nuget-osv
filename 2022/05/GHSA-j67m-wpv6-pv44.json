@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-j67m-wpv6-pv44",
-	"modified": "2023-11-08T04:00:26.930903Z",
+	"modified": "2024-02-14T05:32:59.443610Z",
 	"published": "2022-05-13T01:20:46Z",
 	"aliases": [
 		"CVE-2018-8291"
@@ -110,7 +110,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/45215/"
+			"url": "https://www.exploit-db.com/exploits/45215"
 		}
 	],
 	"database_specific": {

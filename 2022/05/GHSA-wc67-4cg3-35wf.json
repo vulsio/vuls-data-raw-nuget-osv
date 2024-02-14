@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wc67-4cg3-35wf",
-	"modified": "2023-11-08T03:59:32.687381Z",
+	"modified": "2024-02-14T05:26:17.857191Z",
 	"published": "2022-05-13T01:18:39Z",
 	"aliases": [
 		"CVE-2018-0946"
@@ -91,7 +91,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://web.archive.org/web/20210125210449/https://www.securityfocus.com/bid/103989/"
+			"url": "https://web.archive.org/web/20210125210449/https://www.securityfocus.com/bid/103989"
 		},
 		{
 			"type": "WEB",
@@ -99,7 +99,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/44758/"
+			"url": "https://www.exploit-db.com/exploits/44758"
 		}
 	],
 	"database_specific": {

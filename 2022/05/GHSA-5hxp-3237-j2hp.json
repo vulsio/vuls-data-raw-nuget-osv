@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5hxp-3237-j2hp",
-	"modified": "2023-11-08T04:00:25.956619Z",
+	"modified": "2024-02-14T05:31:32.689707Z",
 	"published": "2022-05-13T01:20:40Z",
 	"aliases": [
 		"CVE-2018-8139"
@@ -99,7 +99,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/45012/"
+			"url": "https://www.exploit-db.com/exploits/45012"
 		}
 	],
 	"database_specific": {

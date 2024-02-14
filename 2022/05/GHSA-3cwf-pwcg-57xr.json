@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3cwf-pwcg-57xr",
-	"modified": "2023-11-08T03:59:31.273677Z",
+	"modified": "2024-02-14T05:29:55.551278Z",
 	"published": "2022-05-13T01:18:31Z",
 	"aliases": [
 		"CVE-2018-0835"
@@ -96,7 +96,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/44079/"
+			"url": "https://www.exploit-db.com/exploits/44079"
 		}
 	],
 	"database_specific": {

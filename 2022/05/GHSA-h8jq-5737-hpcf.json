@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-h8jq-5737-hpcf",
-	"modified": "2023-11-08T04:00:27.360448Z",
+	"modified": "2024-02-14T05:32:50.510051Z",
 	"published": "2022-05-13T01:20:48Z",
 	"aliases": [
 		"CVE-2018-8355"
@@ -107,7 +107,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/45432/"
+			"url": "https://www.exploit-db.com/exploits/45432"
 		}
 	],
 	"database_specific": {

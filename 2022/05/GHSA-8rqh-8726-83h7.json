@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8rqh-8726-83h7",
-	"modified": "2023-11-08T04:00:25.836137Z",
+	"modified": "2024-02-14T05:23:31.573916Z",
 	"published": "2022-05-13T01:20:39Z",
 	"aliases": [
 		"CVE-2018-8133"
@@ -99,7 +99,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/44817/"
+			"url": "https://www.exploit-db.com/exploits/44817"
 		}
 	],
 	"database_specific": {

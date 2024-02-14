@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-g3q9-xf95-8hp5",
-	"modified": "2023-12-13T18:50:14.614337Z",
+	"modified": "2024-02-14T05:32:46.421462Z",
 	"published": "2022-10-11T20:48:52Z",
 	"aliases": [
 		"BIT-dotnet-2022-41032",
@@ -638,27 +638,27 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/FOG35Z5RL5W5RGLLYLN46CI4D2UPDSWM/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/FOG35Z5RL5W5RGLLYLN46CI4D2UPDSWM"
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/HDPT2MJC3HD7HYZGASOOX6MTDR4ASBL5/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/HDPT2MJC3HD7HYZGASOOX6MTDR4ASBL5"
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/X7BMHO5ITRBZREVTEKHQRGSFRPDMALV3/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce%40lists.fedoraproject.org/message/X7BMHO5ITRBZREVTEKHQRGSFRPDMALV3"
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/FOG35Z5RL5W5RGLLYLN46CI4D2UPDSWM/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/FOG35Z5RL5W5RGLLYLN46CI4D2UPDSWM"
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/HDPT2MJC3HD7HYZGASOOX6MTDR4ASBL5/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/HDPT2MJC3HD7HYZGASOOX6MTDR4ASBL5"
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/X7BMHO5ITRBZREVTEKHQRGSFRPDMALV3/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/X7BMHO5ITRBZREVTEKHQRGSFRPDMALV3"
 		},
 		{
 			"type": "WEB",

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4c93-q79v-mw45",
-	"modified": "2023-11-08T04:00:28.477712Z",
+	"modified": "2024-02-14T05:32:30.330062Z",
 	"published": "2022-05-13T01:20:55Z",
 	"aliases": [
 		"CVE-2018-8466"
@@ -109,7 +109,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/45571/"
+			"url": "https://www.exploit-db.com/exploits/45571"
 		}
 	],
 	"database_specific": {

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3j65-2jcq-w9fr",
-	"modified": "2023-11-08T03:59:32.257518Z",
+	"modified": "2024-02-14T05:22:27.421739Z",
 	"published": "2022-05-13T01:18:37Z",
 	"aliases": [
 		"CVE-2018-0933"
@@ -97,7 +97,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/44396/"
+			"url": "https://www.exploit-db.com/exploits/44396"
 		}
 	],
 	"database_specific": {
