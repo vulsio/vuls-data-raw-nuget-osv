@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4f5g-j7wg-7w8j",
-	"modified": "2023-11-08T03:58:35.422993Z",
+	"modified": "2024-02-15T05:31:46.961119Z",
 	"published": "2022-05-14T02:22:42Z",
 	"aliases": [
 		"CVE-2016-7201"
@@ -78,11 +78,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/40784/"
+			"url": "https://www.exploit-db.com/exploits/40784"
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/40990/"
+			"url": "https://www.exploit-db.com/exploits/40990"
 		},
 		{
 			"type": "WEB",

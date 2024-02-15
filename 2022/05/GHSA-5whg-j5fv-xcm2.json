@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5whg-j5fv-xcm2",
-	"modified": "2023-11-08T03:58:35.360806Z",
+	"modified": "2024-02-15T05:17:09.558982Z",
 	"published": "2022-05-14T02:22:42Z",
 	"aliases": [
 		"CVE-2016-7200"
@@ -78,11 +78,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/40785/"
+			"url": "https://www.exploit-db.com/exploits/40785"
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/40990/"
+			"url": "https://www.exploit-db.com/exploits/40990"
 		},
 		{
 			"type": "WEB",

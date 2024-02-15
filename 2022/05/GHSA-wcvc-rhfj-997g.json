@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wcvc-rhfj-997g",
-	"modified": "2023-11-08T03:58:35.545494Z",
+	"modified": "2024-02-15T05:30:21.322180Z",
 	"published": "2022-05-14T02:22:42Z",
 	"aliases": [
 		"CVE-2016-7203"
@@ -74,7 +74,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/40787/"
+			"url": "https://www.exploit-db.com/exploits/40787"
 		}
 	],
 	"database_specific": {

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-xphq-3x6q-q2qq",
-	"modified": "2023-11-08T04:00:26.017688Z",
+	"modified": "2024-02-15T05:31:21.283696Z",
 	"published": "2022-05-13T01:53:32Z",
 	"aliases": [
 		"CVE-2018-8145"
@@ -95,7 +95,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/45011/"
+			"url": "https://www.exploit-db.com/exploits/45011"
 		}
 	],
 	"database_specific": {
