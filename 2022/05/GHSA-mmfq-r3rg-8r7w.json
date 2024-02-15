@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mmfq-r3rg-8r7w",
-	"modified": "2023-11-08T03:58:35.485064Z",
+	"modified": "2024-02-15T05:32:55.043509Z",
 	"published": "2022-05-14T02:22:42Z",
 	"aliases": [
 		"CVE-2016-7202"
@@ -78,11 +78,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/40786/"
+			"url": "https://www.exploit-db.com/exploits/40786"
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/40793/"
+			"url": "https://www.exploit-db.com/exploits/40793"
 		},
 		{
 			"type": "WEB",

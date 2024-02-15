@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hh3v-5chw-wgh7",
-	"modified": "2023-11-08T03:58:35.668758Z",
+	"modified": "2024-02-15T05:42:46.716615Z",
 	"published": "2022-05-14T02:22:18Z",
 	"aliases": [
 		"CVE-2016-7240"
@@ -74,7 +74,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/40773/"
+			"url": "https://www.exploit-db.com/exploits/40773"
 		}
 	],
 	"database_specific": {
