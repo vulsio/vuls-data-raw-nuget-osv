@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6x4f-5v4h-r29j",
-	"modified": "2023-11-08T04:00:32.835316Z",
+	"modified": "2024-02-16T08:25:09.117840Z",
 	"published": "2022-05-13T01:21:17Z",
 	"aliases": [
 		"CVE-2019-0567"
@@ -105,7 +105,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/46203/"
+			"url": "https://www.exploit-db.com/exploits/46203"
 		}
 	],
 	"database_specific": {

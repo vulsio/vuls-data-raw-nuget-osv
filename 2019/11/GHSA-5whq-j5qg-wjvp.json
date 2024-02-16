@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5whq-j5qg-wjvp",
-	"modified": "2023-11-08T04:01:05.640807Z",
+	"modified": "2024-02-16T08:25:02.679584Z",
 	"published": "2019-11-18T17:16:06Z",
 	"aliases": [
 		"CVE-2019-12562"
@@ -73,7 +73,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://mayaseven.com/cve-2019-12562-stored-cross-site-scripting-in-dotnetnuke-dnn-version-v9-3-2/"
+			"url": "https://mayaseven.com/cve-2019-12562-stored-cross-site-scripting-in-dotnetnuke-dnn-version-v9-3-2"
 		},
 		{
 			"type": "WEB",

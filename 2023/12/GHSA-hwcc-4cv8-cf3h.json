@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hwcc-4cv8-cf3h",
-	"modified": "2023-12-22T20:12:09.372234Z",
+	"modified": "2024-02-16T08:22:27.600092Z",
 	"published": "2023-12-22T19:51:09Z",
 	"aliases": [
 		"CVE-2023-51662"

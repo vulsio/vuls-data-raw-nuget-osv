@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fvxf-r9fw-49pc",
-	"modified": "2023-11-08T04:09:15.176718Z",
+	"modified": "2024-02-16T08:11:07.050304Z",
 	"published": "2022-06-17T21:44:39Z",
 	"aliases": [
 		"CVE-2022-29865"
@@ -102,7 +102,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://opcfoundation.org/security/"
+			"url": "https://opcfoundation.org/security"
 		}
 	],
 	"database_specific": {

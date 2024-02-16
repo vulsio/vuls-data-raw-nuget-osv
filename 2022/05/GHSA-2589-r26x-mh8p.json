@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-2589-r26x-mh8p",
-	"modified": "2023-11-08T04:00:28.667113Z",
+	"modified": "2024-02-16T08:21:28.317386Z",
 	"published": "2022-05-13T01:20:56Z",
 	"aliases": [
 		"CVE-2018-8503"

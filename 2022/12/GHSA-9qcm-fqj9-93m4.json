@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9qcm-fqj9-93m4",
-	"modified": "2023-11-10T22:16:51.923509Z",
+	"modified": "2024-02-16T07:58:10.182473Z",
 	"published": "2022-12-13T21:30:26Z",
 	"summary": "Duplicate Advisory: .NET Framework Remote Code Execution Vulnerability.",
 	"details": "## Duplicate Advisory\nThis advisory has been withdrawn because it is a duplicate of GHSA-2c7v-qcjp-4mg2. This link is maintained to preserve external references.\n\n## Original Description\n.NET Framework Remote Code Execution Vulnerability.",

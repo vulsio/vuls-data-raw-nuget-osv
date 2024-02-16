@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-prhh-h793-h32r",
-	"modified": "2023-11-08T03:59:42.962056Z",
+	"modified": "2024-02-16T08:22:28.240941Z",
 	"published": "2022-05-13T01:18:49Z",
 	"aliases": [
 		"CVE-2018-1019"

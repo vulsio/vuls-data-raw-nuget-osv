@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hx93-gc73-5rpr",
-	"modified": "2023-12-05T21:31:09.205261Z",
+	"modified": "2024-02-16T07:56:44.662292Z",
 	"published": "2023-11-22T03:30:19Z",
 	"aliases": [
 		"CVE-2021-22143"

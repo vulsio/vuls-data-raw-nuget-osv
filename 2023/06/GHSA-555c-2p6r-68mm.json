@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-555c-2p6r-68mm",
-	"modified": "2023-12-06T01:02:59.015828Z",
+	"modified": "2024-02-16T08:18:48.552372Z",
 	"published": "2023-06-14T17:08:54Z",
 	"aliases": [
 		"BIT-dotnet-2023-29331",

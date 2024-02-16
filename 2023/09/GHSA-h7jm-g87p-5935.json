@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-h7jm-g87p-5935",
-	"modified": "2023-12-06T01:03:07.164289Z",
+	"modified": "2024-02-16T08:20:46.736414Z",
 	"published": "2023-09-12T20:05:18Z",
 	"aliases": [
 		"BIT-dotnet-2023-36796",

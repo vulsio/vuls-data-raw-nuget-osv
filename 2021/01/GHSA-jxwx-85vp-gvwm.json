@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jxwx-85vp-gvwm",
-	"modified": "2023-11-08T04:04:39.313690Z",
+	"modified": "2024-02-16T08:15:47.431372Z",
 	"published": "2021-01-13T18:21:54Z",
 	"aliases": [
 		"CVE-2021-21252"

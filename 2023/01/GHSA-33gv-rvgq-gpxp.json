@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-33gv-rvgq-gpxp",
-	"modified": "2023-11-01T06:18:40.409240Z",
+	"modified": "2024-02-16T08:25:07.697756Z",
 	"published": "2023-01-27T00:30:18Z",
 	"summary": "Withdrawn Advisory: HTML injections in BTCPayServer",
 	"details": "## Withdrawn Advisory\nThis advisory has been withdrawn because all of the files affected by this vulnerability lie in the [BTCPayServer folder](https://github.com/btcpayserver/btcpayserver/tree/master/BTCPayServer), which is not in the NuGet ecosystem. The [BTCPayServer folder](https://github.com/btcpayserver/btcpayserver/tree/master/BTCPayServer.Client), corresponding to the [BTCPayServer NuGet entry](https://www.nuget.org/packages/BTCPayServer.Client), does not contain any files that were changed to fix the vulnerability.\n\n## Original Description\nImproper Neutralization of Equivalent Special Elements in GitHub repository btcpayserver/btcpayserver prior to 1.7.5.",

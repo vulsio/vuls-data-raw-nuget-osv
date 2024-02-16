@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-674j-7m97-j2p9",
-	"modified": "2024-02-14T05:22:12.315381Z",
+	"modified": "2024-02-16T08:11:40.176887Z",
 	"published": "2022-05-14T00:58:02Z",
 	"aliases": [
 		"CURL-CVE-2018-1000120",

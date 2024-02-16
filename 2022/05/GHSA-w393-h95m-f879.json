@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-w393-h95m-f879",
-	"modified": "2023-11-08T04:01:47.406923Z",
+	"modified": "2024-02-16T08:20:14.739036Z",
 	"published": "2022-05-14T00:52:11Z",
 	"aliases": [
 		"CVE-2019-9648"
@@ -88,7 +88,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://web.archive.org/web/20210125013812/https://www.securityfocus.com/bid/107446/"
+			"url": "https://web.archive.org/web/20210125013812/https://www.securityfocus.com/bid/107446"
 		},
 		{
 			"type": "WEB",

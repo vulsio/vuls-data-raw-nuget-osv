@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-pg99-mp4c-75g6",
-	"modified": "2023-11-08T04:01:55.129699Z",
+	"modified": "2024-02-16T07:56:00.241784Z",
 	"published": "2022-05-24T17:10:58Z",
 	"aliases": [
 		"CVE-2020-0811"

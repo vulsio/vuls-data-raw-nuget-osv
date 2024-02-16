@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6jf5-rmhv-38cw",
-	"modified": "2023-11-08T04:00:33.154991Z",
+	"modified": "2024-02-16T08:19:59.262109Z",
 	"published": "2019-04-09T19:44:03Z",
 	"aliases": [
 		"CVE-2019-0639"
@@ -99,7 +99,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.zerodayinitiative.com/advisories/ZDI-20-122/"
+			"url": "https://www.zerodayinitiative.com/advisories/ZDI-20-122"
 		}
 	],
 	"database_specific": {

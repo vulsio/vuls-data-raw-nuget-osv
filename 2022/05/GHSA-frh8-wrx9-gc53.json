@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-frh8-wrx9-gc53",
-	"modified": "2023-11-08T04:00:25.895448Z",
+	"modified": "2024-02-16T08:22:29.177087Z",
 	"published": "2022-05-13T01:20:39Z",
 	"aliases": [
 		"CVE-2018-8137"

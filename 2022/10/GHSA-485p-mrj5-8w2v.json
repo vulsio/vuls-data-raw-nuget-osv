@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-485p-mrj5-8w2v",
-	"modified": "2023-12-21T00:47:02.755946Z",
+	"modified": "2024-02-16T08:20:44.635724Z",
 	"published": "2022-10-21T20:50:24Z",
 	"aliases": [
 		"BIT-dotnet-2022-23267",

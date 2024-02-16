@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3885-8gqc-3wpf",
-	"modified": "2023-12-21T00:46:23.954525Z",
+	"modified": "2024-02-16T08:21:23.091007Z",
 	"published": "2022-06-14T21:57:52Z",
 	"aliases": [
 		"BIT-dotnet-2022-30184",

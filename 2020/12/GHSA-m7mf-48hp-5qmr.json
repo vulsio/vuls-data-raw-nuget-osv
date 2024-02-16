@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-m7mf-48hp-5qmr",
-	"modified": "2024-02-16T05:31:51.485706Z",
+	"modified": "2024-02-16T08:24:30.978175Z",
 	"published": "2020-12-02T18:28:47Z",
 	"aliases": [
 		"CVE-2020-16009"
