@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3w4v-qfqc-3433",
-	"modified": "2023-11-08T04:00:32.590755Z",
+	"modified": "2024-02-16T05:28:46.952464Z",
 	"published": "2022-05-13T01:21:15Z",
 	"aliases": [
 		"CVE-2019-0539"
@@ -105,15 +105,15 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/46203/"
+			"url": "https://www.exploit-db.com/exploits/46203"
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/46204/"
+			"url": "https://www.exploit-db.com/exploits/46204"
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/46485/"
+			"url": "https://www.exploit-db.com/exploits/46485"
 		}
 	],
 	"database_specific": {

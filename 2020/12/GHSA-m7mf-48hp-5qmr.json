@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-m7mf-48hp-5qmr",
-	"modified": "2023-11-08T04:02:38.828792Z",
+	"modified": "2024-02-16T05:31:51.485706Z",
 	"published": "2020-12-02T18:28:47Z",
 	"aliases": [
 		"CVE-2020-16009"
@@ -410,11 +410,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/S4XYJ7B6OXHZNYSA5J3DBUOFEC6WCAGW/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/S4XYJ7B6OXHZNYSA5J3DBUOFEC6WCAGW"
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/SC3U3H6AISVZB5PLZLLNF4HMQ4UFFL7M/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/SC3U3H6AISVZB5PLZLLNF4HMQ4UFFL7M"
 		},
 		{
 			"type": "WEB",

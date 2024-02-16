@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-2mmc-5phj-4wjj",
-	"modified": "2023-11-08T04:00:33.697435Z",
+	"modified": "2024-02-16T05:31:29.467532Z",
 	"published": "2022-05-13T01:21:36Z",
 	"aliases": [
 		"CVE-2019-0810"
@@ -108,7 +108,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.zerodayinitiative.com/advisories/ZDI-19-361/"
+			"url": "https://www.zerodayinitiative.com/advisories/ZDI-19-361"
 		}
 	],
 	"database_specific": {

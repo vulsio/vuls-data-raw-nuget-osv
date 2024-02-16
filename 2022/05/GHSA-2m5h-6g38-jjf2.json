@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-2m5h-6g38-jjf2",
-	"modified": "2023-11-08T04:00:32.895293Z",
+	"modified": "2024-02-16T05:32:09.857929Z",
 	"published": "2022-05-13T01:21:17Z",
 	"aliases": [
 		"CVE-2019-0568"
@@ -101,11 +101,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://web.archive.org/web/20210124231429/https://www.securityfocus.com/bid/106420/"
+			"url": "https://web.archive.org/web/20210124231429/https://www.securityfocus.com/bid/106420"
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/46205/"
+			"url": "https://www.exploit-db.com/exploits/46205"
 		}
 	],
 	"database_specific": {
