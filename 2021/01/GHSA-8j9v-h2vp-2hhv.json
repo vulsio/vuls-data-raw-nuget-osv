@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8j9v-h2vp-2hhv",
-	"modified": "2023-11-08T04:03:18.270288Z",
+	"modified": "2024-02-17T05:34:17.750520Z",
 	"published": "2021-01-04T18:22:11Z",
 	"aliases": [
 		"CVE-2020-26293"
@@ -133,7 +133,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.nuget.org/packages/HtmlSanitizer/"
+			"url": "https://www.nuget.org/packages/HtmlSanitizer"
 		}
 	],
 	"database_specific": {

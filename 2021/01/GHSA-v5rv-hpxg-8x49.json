@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-v5rv-hpxg-8x49",
-	"modified": "2023-11-08T04:03:23.427126Z",
+	"modified": "2024-02-17T05:32:59.776209Z",
 	"published": "2021-01-13T19:13:11Z",
 	"aliases": [
 		"CVE-2020-28042"
@@ -240,15 +240,15 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.nuget.org/packages/ServiceStack/"
+			"url": "https://www.nuget.org/packages/ServiceStack"
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.shielder.it/advisories/servicestack-jwt-signature-verification-bypass/"
+			"url": "https://www.shielder.it/advisories/servicestack-jwt-signature-verification-bypass"
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.shielder.it/blog/2020/11/re-discovering-a-jwt-authentication-bypass-in-servicestack/"
+			"url": "https://www.shielder.it/blog/2020/11/re-discovering-a-jwt-authentication-bypass-in-servicestack"
 		}
 	],
 	"database_specific": {

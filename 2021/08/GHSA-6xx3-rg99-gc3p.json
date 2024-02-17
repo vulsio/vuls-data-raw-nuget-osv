@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6xx3-rg99-gc3p",
-	"modified": "2023-11-08T04:02:37.417495Z",
+	"modified": "2024-02-17T05:52:01.093029Z",
 	"published": "2021-08-13T15:22:31Z",
 	"aliases": [
 		"CVE-2020-15522"
@@ -351,7 +351,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20210622-0007/"
+			"url": "https://security.netapp.com/advisory/ntap-20210622-0007"
 		},
 		{
 			"type": "WEB",

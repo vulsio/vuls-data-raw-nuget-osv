@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-j3jw-j2j8-2wv9",
-	"modified": "2023-11-08T04:07:10.645483Z",
+	"modified": "2024-02-17T05:34:44.265885Z",
 	"published": "2021-11-10T20:58:03Z",
 	"aliases": [
 		"CVE-2021-43569"
@@ -63,7 +63,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://research.nccgroup.com/2021/11/08/technical-advisory-arbitrary-signature-forgery-in-stark-bank-ecdsa-libraries/"
+			"url": "https://research.nccgroup.com/2021/11/08/technical-advisory-arbitrary-signature-forgery-in-stark-bank-ecdsa-libraries"
 		}
 	],
 	"database_specific": {

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-x8f7-h444-97w4",
-	"modified": "2023-11-08T03:57:52.356708Z",
+	"modified": "2024-02-17T05:33:35.798710Z",
 	"published": "2018-10-16T19:33:42Z",
 	"aliases": [
 		"CVE-2015-2794"
@@ -65,7 +65,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/39777/"
+			"url": "https://www.exploit-db.com/exploits/39777"
 		},
 		{
 			"type": "WEB",

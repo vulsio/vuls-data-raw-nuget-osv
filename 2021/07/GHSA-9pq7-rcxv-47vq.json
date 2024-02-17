@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9pq7-rcxv-47vq",
-	"modified": "2023-11-08T04:05:24.187176Z",
+	"modified": "2024-02-17T05:37:00.550018Z",
 	"published": "2021-07-14T19:10:01Z",
 	"aliases": [
 		"CVE-2021-27293"
@@ -150,7 +150,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://restsharp.dev/"
+			"url": "https://restsharp.dev"
 		}
 	],
 	"database_specific": {
