@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8rfx-6mr3-5jh3",
-	"modified": "2024-02-16T08:14:34.955552Z",
+	"modified": "2024-02-18T05:30:36.388516Z",
 	"published": "2024-01-03T18:30:51Z",
 	"summary": "Duplicate Advisory: Improper Handling of Exceptional Conditions in Newtonsoft.Json",
 	"details": "### Duplicate Advisory\nThis advisory has been withdrawn because it is a duplicate of GHSA-5crp-9r3c-p9vr. This link is maintained to preserve external references.\n\n### Original Description\nNewtonsoft.Json before version 13.0.1 is affected by a mishandling of exceptional conditions vulnerability. Crafted data that is passed to the JsonConvert.DeserializeObject method may trigger a StackOverflow exception resulting in denial of service. Depending on the usage of the library, an unauthenticated and remote attacker may be able to cause the denial of service condition.\n",
@@ -125,7 +125,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://alephsecurity.com/2018/10/22/StackOverflowException/"
+			"url": "https://alephsecurity.com/2018/10/22/StackOverflowException"
 		},
 		{
 			"type": "WEB",
