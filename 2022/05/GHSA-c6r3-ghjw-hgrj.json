@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-c6r3-ghjw-hgrj",
-	"modified": "2024-02-16T08:05:43.348761Z",
+	"modified": "2024-02-19T05:33:51.538754Z",
 	"published": "2022-05-14T01:06:50Z",
 	"aliases": [
 		"CVE-2017-11893"
@@ -97,7 +97,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/43466/"
+			"url": "https://www.exploit-db.com/exploits/43466"
 		}
 	],
 	"database_specific": {

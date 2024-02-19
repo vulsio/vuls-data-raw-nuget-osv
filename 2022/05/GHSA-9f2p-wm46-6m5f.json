@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9f2p-wm46-6m5f",
-	"modified": "2024-02-16T08:20:08.811283Z",
+	"modified": "2024-02-19T05:31:45.750235Z",
 	"published": "2022-05-17T00:19:55Z",
 	"aliases": [
 		"CVE-2017-11870"
@@ -96,7 +96,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/43182/"
+			"url": "https://www.exploit-db.com/exploits/43182"
 		}
 	],
 	"database_specific": {

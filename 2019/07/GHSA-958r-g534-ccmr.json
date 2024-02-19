@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-958r-g534-ccmr",
-	"modified": "2023-11-08T04:01:48.077329Z",
+	"modified": "2024-02-19T05:32:27.163063Z",
 	"published": "2019-07-05T21:11:13Z",
 	"aliases": [
 		"CVE-2019-9845"
@@ -64,7 +64,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://rastating.github.io/miniblog-remote-code-execution/"
+			"url": "https://rastating.github.io/miniblog-remote-code-execution"
 		}
 	],
 	"database_specific": {

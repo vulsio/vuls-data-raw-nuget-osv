@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8r5c-8v97-g7vh",
-	"modified": "2024-02-16T08:21:03.946338Z",
+	"modified": "2024-02-19T05:32:22.778999Z",
 	"published": "2022-05-14T01:06:51Z",
 	"aliases": [
 		"CVE-2017-11914"
@@ -97,7 +97,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/43713/"
+			"url": "https://www.exploit-db.com/exploits/43713"
 		}
 	],
 	"database_specific": {

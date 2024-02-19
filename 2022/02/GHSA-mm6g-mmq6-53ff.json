@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mm6g-mmq6-53ff",
-	"modified": "2023-11-08T04:06:02.170090Z",
+	"modified": "2024-02-19T05:31:55.120019Z",
 	"published": "2022-02-01T16:23:00Z",
 	"aliases": [
 		"CVE-2021-32842"
@@ -62,7 +62,7 @@
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://securitylab.github.com/advisories/GHSL-2021-125-sharpziplib/"
+			"url": "https://securitylab.github.com/advisories/GHSL-2021-125-sharpziplib"
 		}
 	],
 	"database_specific": {
