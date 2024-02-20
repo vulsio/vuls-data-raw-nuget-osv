@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-j9m2-h2pv-wvph",
-	"modified": "2024-02-16T08:21:35.235305Z",
+	"modified": "2024-02-20T05:31:53.086849Z",
 	"published": "2022-06-03T00:00:59Z",
 	"aliases": [
 		"CVE-2021-43306"
@@ -94,7 +94,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://research.jfrog.com/vulnerabilities/jquery-validation-redos-xray-211348/"
+			"url": "https://research.jfrog.com/vulnerabilities/jquery-validation-redos-xray-211348"
 		}
 	],
 	"database_specific": {

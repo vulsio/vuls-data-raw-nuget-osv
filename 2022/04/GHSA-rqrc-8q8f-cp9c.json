@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-rqrc-8q8f-cp9c",
-	"modified": "2023-11-08T04:02:27.580354Z",
+	"modified": "2024-02-20T05:31:04.092839Z",
 	"published": "2022-04-08T18:11:51Z",
 	"aliases": [
 		"CVE-2020-1469"
@@ -73,8 +73,8 @@
 			"url": "https://github.com/microsoft/bond/commit/b0fd4a15a7cae946dd2855122559ca59cc34dbea"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/microsoft/bond/"
+			"type": "WEB",
+			"url": "https://github.com/microsoft/bond"
 		},
 		{
 			"type": "WEB",
