@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-v626-r774-j7f8",
-	"modified": "2024-02-16T08:12:54.141179Z",
+	"modified": "2024-02-21T05:21:55.984755Z",
 	"published": "2023-11-15T18:32:34Z",
 	"aliases": [
 		"CVE-2023-48219"
@@ -580,11 +580,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://tiny.cloud/docs/release-notes/release-notes5109/"
+			"url": "https://tiny.cloud/docs/release-notes/release-notes5109"
 		},
 		{
 			"type": "WEB",
-			"url": "https://tiny.cloud/docs/tinymce/6/6.7.3-release-notes/"
+			"url": "https://tiny.cloud/docs/tinymce/6/6.7.3-release-notes"
 		}
 	],
 	"database_specific": {

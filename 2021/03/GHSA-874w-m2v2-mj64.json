@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-874w-m2v2-mj64",
-	"modified": "2023-11-08T04:01:12.822527Z",
+	"modified": "2024-02-21T05:30:10.472933Z",
 	"published": "2021-03-29T20:48:45Z",
 	"aliases": [
 		"CVE-2019-15151"
@@ -153,11 +153,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/Q32A64R2APAC5PXIMSYIEFDQX5AD4GAS/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/Q32A64R2APAC5PXIMSYIEFDQX5AD4GAS"
 		},
 		{
 			"type": "WEB",
-			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/U3PW6PLDTPSQQRHKTU2FB72SUB4Q66NE/"
+			"url": "https://lists.fedoraproject.org/archives/list/package-announce@lists.fedoraproject.org/message/U3PW6PLDTPSQQRHKTU2FB72SUB4Q66NE"
 		}
 	],
 	"database_specific": {

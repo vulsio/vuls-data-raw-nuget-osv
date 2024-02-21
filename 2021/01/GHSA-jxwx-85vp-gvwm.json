@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-jxwx-85vp-gvwm",
-	"modified": "2024-02-16T08:15:47.431372Z",
+	"modified": "2024-02-21T05:42:14.225886Z",
 	"published": "2021-01-13T18:21:54Z",
 	"aliases": [
 		"CVE-2021-21252"
@@ -115,11 +115,11 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://security.netapp.com/advisory/ntap-20210219-0005/"
+			"url": "https://security.netapp.com/advisory/ntap-20210219-0005"
 		},
 		{
 			"type": "ADVISORY",
-			"url": "https://securitylab.github.com/advisories/GHSL-2020-294-redos-jquery-validation/"
+			"url": "https://securitylab.github.com/advisories/GHSL-2020-294-redos-jquery-validation"
 		},
 		{
 			"type": "WEB",
