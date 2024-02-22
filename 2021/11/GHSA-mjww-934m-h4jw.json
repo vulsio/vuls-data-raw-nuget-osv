@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mjww-934m-h4jw",
-	"modified": "2023-11-08T04:03:31.230809Z",
+	"modified": "2024-02-22T05:33:30.362772Z",
 	"published": "2021-11-19T20:19:53Z",
 	"aliases": [
 		"CVE-2020-29457"
@@ -81,8 +81,8 @@
 			"url": "https://github.com/OPCFoundation/UA-.NETStandard/pull/1229/commits/d815cfb972bd668c1b6e461f6ff97519d6b26f25"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/OPCFoundation/UA-.NETStandard/"
+			"type": "WEB",
+			"url": "https://github.com/OPCFoundation/UA-.NETStandard"
 		},
 		{
 			"type": "WEB",
@@ -90,7 +90,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.nuget.org/packages/OPCFoundation.NetStandard.Opc.Ua/"
+			"url": "https://www.nuget.org/packages/OPCFoundation.NetStandard.Opc.Ua"
 		}
 	],
 	"database_specific": {

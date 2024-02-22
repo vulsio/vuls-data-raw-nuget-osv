@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-p9qf-56xw-h2vj",
-	"modified": "2024-02-16T08:15:30.229744Z",
+	"modified": "2024-02-22T05:28:20.668840Z",
 	"published": "2022-05-13T01:21:02Z",
 	"aliases": [
 		"CVE-2018-8617"
@@ -103,7 +103,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://www.exploit-db.com/exploits/46202/"
+			"url": "https://www.exploit-db.com/exploits/46202"
 		}
 	],
 	"database_specific": {
