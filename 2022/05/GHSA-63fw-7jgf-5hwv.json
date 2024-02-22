@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-63fw-7jgf-5hwv",
-	"modified": "2024-02-16T08:13:47.707399Z",
+	"modified": "2024-02-22T05:38:08.542424Z",
 	"published": "2022-05-24T17:08:29Z",
 	"aliases": [
 		"CVE-2020-0711"
@@ -107,8 +107,8 @@
 			"url": "https://github.com/chakra-core/ChakraCore/pull/6375/commits/a9aee51164faa28ca8617746d1d99ea3f1e75e65"
 		},
 		{
-			"type": "PACKAGE",
-			"url": "https://github.com/chakra-core/ChakraCore/"
+			"type": "WEB",
+			"url": "https://github.com/chakra-core/ChakraCore"
 		},
 		{
 			"type": "WEB",
