@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-g74q-5xw3-j7q9",
-	"modified": "2024-02-20T19:32:05.787611Z",
+	"modified": "2024-02-23T08:11:42.272278Z",
 	"published": "2024-02-13T19:49:43Z",
 	"aliases": [
+		"BIT-aspnet-core-2024-21386",
 		"CVE-2024-21386"
 	],
 	"summary": "Microsoft Security Advisory CVE-2024-21386: .NET Denial of Service Vulnerability",
