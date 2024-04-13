@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-9fc5-q25c-r2wr",
-	"modified": "2023-11-08T03:57:41.542477Z",
+	"modified": "2024-04-12T22:01:27.708442Z",
 	"published": "2022-05-17T19:57:18Z",
 	"aliases": [
 		"CVE-2014-4172"
@@ -128,6 +128,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/Jasig/java-cas-client/commit/ae37092100c8eaec610dab6d83e5e05a8ee58814"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/apereo/java-cas-client/commit/266eba7c2d870d70caba6f41576d19f2fcc869b1"
 		},
 		{
 			"type": "WEB",
