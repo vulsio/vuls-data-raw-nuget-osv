@@ -1,8 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8xfc-gm6g-vgpv",
-	"modified": "2024-05-14T20:30:41.171059Z",
+	"modified": "2024-05-19T02:24:45.060217Z",
 	"published": "2024-05-14T15:32:54Z",
+	"aliases": [
+		"CVE-2024-29857"
+	],
 	"summary": "Bouncy Castle certificate parsing issues cause high CPU usage during parameter evaluation.",
 	"details": "An issue was discovered in ECCurve.java and ECCurve.cs in Bouncy Castle Java (BC Java) before 1.78, BC Java LTS before 2.73.6, BC-FJA before 1.0.2.5, and BC C# .Net before 2.3.1. Importing an EC certificate with crafted F2m parameters can lead to excessive CPU consumption during the evaluation of the curve parameters.",
 	"severity": [

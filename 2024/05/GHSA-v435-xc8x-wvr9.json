@@ -1,8 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-v435-xc8x-wvr9",
-	"modified": "2024-05-14T20:30:43.141341Z",
+	"modified": "2024-05-19T02:24:45.307505Z",
 	"published": "2024-05-14T15:32:54Z",
+	"aliases": [
+		"CVE-2024-30171"
+	],
 	"summary": "Bouncy Castle affected by timing side-channel for RSA key exchange (\"The Marvin Attack\")",
 	"details": "An issue was discovered in Bouncy Castle Java TLS API and JSSE Provider before 1.78. Timing-based leakage may occur in RSA based handshakes because of exception processing.",
 	"severity": [

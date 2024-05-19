@@ -1,8 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wchx-rm6h-7jf6",
-	"modified": "2024-05-14T22:48:11.545328Z",
+	"modified": "2024-05-19T02:24:45.246597Z",
 	"published": "2024-05-14T18:31:05Z",
+	"aliases": [
+		"CVE-2024-30054"
+	],
 	"summary": "Microsoft Power BI Client JavaScript SDK Information Disclosure Vulnerability",
 	"details": "Microsoft Power BI Client JavaScript SDK Information Disclosure Vulnerability",
 	"severity": [

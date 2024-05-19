@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8pp6-8x4q-c5mx",
-	"modified": "2023-11-08T04:08:36.593684Z",
+	"modified": "2024-05-19T02:24:07.331390Z",
 	"published": "2022-03-30T00:00:31Z",
 	"aliases": [
-		"CVE-2022-24789",
-		"GHSA-j9c2-gr6m-pp45"
+		"CVE-2022-24789"
 	],
 	"summary": "Server side request forgery in C1 CMS",
 	"details": "C1 CMS is an open-source, .NET based Content Management System (CMS). Versions prior to 6.12 allow an authenticated user to exploit Server Side Request Forgery (SSRF) by causing the server to make arbitrary GET requests to other servers in the local network or on localhost. The attacker may also truncate arbitrary files to zero size (effectively delete them) leading to denial of service (DoS) or altering application logic. The authenticated user may unknowingly perform the actions by visiting a specially crafted site. Patched in C1 CMS v6.12, no known workarounds exist.",
