@@ -1,9 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-7fcr-8qw6-92fr",
-	"modified": "2024-05-19T02:24:45.120745Z",
+	"modified": "2024-06-04T10:56:37.302991Z",
 	"published": "2024-05-14T20:30:57Z",
 	"aliases": [
+		"BIT-dotnet-2024-30045",
+		"BIT-dotnet-sdk-2024-30045",
 		"CVE-2024-30045"
 	],
 	"summary": "Microsoft Security Advisory CVE-2024-30045 | .NET Remote code Execution Vulnerability",

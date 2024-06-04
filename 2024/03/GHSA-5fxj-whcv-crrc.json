@@ -1,9 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5fxj-whcv-crrc",
-	"modified": "2024-03-18T19:16:04.358135Z",
+	"modified": "2024-06-04T10:56:44.437012Z",
 	"published": "2024-03-12T20:07:59Z",
 	"aliases": [
+		"BIT-dotnet-2024-21392",
+		"BIT-dotnet-sdk-2024-21392",
 		"CVE-2024-21392"
 	],
 	"summary": "Microsoft Security Advisory CVE-2024-21392: .NET Denial of Service Vulnerability",

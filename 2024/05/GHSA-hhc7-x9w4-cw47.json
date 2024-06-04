@@ -1,9 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hhc7-x9w4-cw47",
-	"modified": "2024-05-19T02:24:45.185105Z",
+	"modified": "2024-06-04T10:56:47.731571Z",
 	"published": "2024-05-14T20:31:00Z",
 	"aliases": [
+		"BIT-dotnet-2024-30046",
+		"BIT-dotnet-sdk-2024-30046",
 		"CVE-2024-30046"
 	],
 	"summary": "Microsoft Security Advisory CVE-2024-30046 | .NET Denial of Service Vulnerability",

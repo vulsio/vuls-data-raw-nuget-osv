@@ -1,9 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6qmx-42h2-j8h6",
-	"modified": "2024-04-17T18:41:53.367906Z",
+	"modified": "2024-06-04T10:56:50.570296Z",
 	"published": "2024-04-17T18:21:57Z",
 	"aliases": [
+		"BIT-dotnet-2024-21409",
+		"BIT-dotnet-sdk-2024-21409",
 		"CVE-2024-21409"
 	],
 	"summary": ".NET Elevation of Privilege Vulnerability",
