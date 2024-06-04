@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-x469-cv7m-77r9",
-	"modified": "2024-02-16T08:19:08.362091Z",
+	"modified": "2024-06-03T18:46:36.664040Z",
 	"published": "2023-06-14T17:17:02Z",
 	"aliases": [
 		"BIT-dotnet-2023-33128",
@@ -425,7 +425,9 @@
 		}
 	],
 	"database_specific": {
-		"cwe_ids": [],
+		"cwe_ids": [
+			"CWE-416"
+		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2023-06-14T17:17:02Z",
 		"nvd_published_at": "2023-06-14T00:15:11Z",

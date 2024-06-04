@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-555c-2p6r-68mm",
-	"modified": "2024-02-16T08:18:48.552372Z",
+	"modified": "2024-06-03T18:48:47.673802Z",
 	"published": "2023-06-14T17:08:54Z",
 	"aliases": [
 		"BIT-dotnet-2023-29331",
@@ -1061,7 +1061,9 @@
 		}
 	],
 	"database_specific": {
-		"cwe_ids": [],
+		"cwe_ids": [
+			"CWE-400"
+		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2023-06-14T17:08:54Z",
 		"nvd_published_at": "2023-06-14T15:15:09Z",

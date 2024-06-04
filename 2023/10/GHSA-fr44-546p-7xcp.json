@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fr44-546p-7xcp",
-	"modified": "2024-02-16T08:18:15.166119Z",
+	"modified": "2024-06-03T18:49:04.265783Z",
 	"published": "2023-10-10T22:23:28Z",
 	"aliases": [
 		"BIT-dotnet-2023-36435",
@@ -94,6 +94,7 @@
 	],
 	"database_specific": {
 		"cwe_ids": [
+			"CWE-400",
 			"CWE-401"
 		],
 		"github_reviewed": true,

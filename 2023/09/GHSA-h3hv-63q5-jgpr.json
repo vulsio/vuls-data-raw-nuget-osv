@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-h3hv-63q5-jgpr",
-	"modified": "2024-02-16T08:24:54.532396Z",
+	"modified": "2024-06-03T18:49:44.142006Z",
 	"published": "2023-09-12T19:57:06Z",
 	"aliases": [
 		"BIT-dotnet-2023-36799",
@@ -535,7 +535,9 @@
 		}
 	],
 	"database_specific": {
-		"cwe_ids": [],
+		"cwe_ids": [
+			"CWE-400"
+		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2023-09-12T19:57:06Z",
 		"nvd_published_at": "2023-09-12T17:15:15Z",

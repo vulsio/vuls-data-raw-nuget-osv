@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-88q2-h5g3-p4pg",
-	"modified": "2024-02-16T08:19:52.247968Z",
+	"modified": "2024-06-03T18:49:31.160573Z",
 	"published": "2023-06-14T17:01:16Z",
 	"aliases": [
 		"BIT-dotnet-2023-24897",
@@ -341,7 +341,9 @@
 		}
 	],
 	"database_specific": {
-		"cwe_ids": [],
+		"cwe_ids": [
+			"CWE-122"
+		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2023-06-14T17:01:16Z",
 		"nvd_published_at": "2023-06-14T15:15:09Z",

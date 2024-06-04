@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-485r-rp8v-998v",
-	"modified": "2024-02-16T08:21:29.921127Z",
+	"modified": "2024-06-03T18:47:18.685213Z",
 	"published": "2023-07-11T22:45:28Z",
 	"aliases": [
 		"BIT-dotnet-2023-33127",
@@ -272,7 +272,9 @@
 		}
 	],
 	"database_specific": {
-		"cwe_ids": [],
+		"cwe_ids": [
+			"CWE-1220"
+		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2023-07-11T22:45:28Z",
 		"nvd_published_at": "2023-07-11T18:15:14Z",
