@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-m44j-cfrm-g8qc",
-	"modified": "2024-05-19T02:24:45.371777Z",
+	"modified": "2024-06-14T15:49:12.749504Z",
 	"published": "2024-05-14T15:32:54Z",
 	"aliases": [
 		"CVE-2024-30172"
@@ -516,6 +516,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/bcgit/bc-java/wiki/CVE%E2%80%902024%E2%80%9030172"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security.netapp.com/advisory/ntap-20240614-0007"
 		},
 		{
 			"type": "WEB",
