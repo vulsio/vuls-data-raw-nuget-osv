@@ -1,9 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-m44j-cfrm-g8qc",
-	"modified": "2024-06-14T15:49:12.749504Z",
+	"modified": "2024-06-19T07:44:16.589214Z",
 	"published": "2024-05-14T15:32:54Z",
 	"aliases": [
+		"CGA-vxwq-f5f4-5vmj",
 		"CVE-2024-30172"
 	],
 	"summary": "Bouncy Castle crafted signature and public key can be used to trigger an infinite loop",
