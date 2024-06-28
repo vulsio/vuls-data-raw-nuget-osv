@@ -1,0 +1,46 @@
+{
+	"schema_version": "1.6.0",
+	"id": "MAL-2024-4526",
+	"modified": "2024-06-25T13:29:43Z",
+	"published": "2024-06-25T13:29:43Z",
+	"summary": "Malicious code in LagoVista.CloudStorage.Net (NuGet)",
+	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
+	"affected": [
+		{
+			"package": {
+				"ecosystem": "NuGet",
+				"name": "LagoVista.CloudStorage.Net",
+				"purl": "pkg:nuget/LagoVista.CloudStorage.Net"
+			},
+			"versions": [
+				"3.0.2287.946"
+			],
+			"database_specific": {
+				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/nuget/lagovista.cloudstorage.net/MAL-2024-4526.json"
+			}
+		}
+	],
+	"credits": [
+		{
+			"name": "ReversingLabs",
+			"contact": [
+				"https://www.reversinglabs.com"
+			],
+			"type": "FINDER"
+		}
+	],
+	"database_specific": {
+		"malicious-packages-origins": [
+			{
+				"id": "RLMA-2024-03311",
+				"import_time": "2024-06-28T02:47:48.315697915Z",
+				"modified_time": "2024-06-25T13:29:43Z",
+				"sha256": "001f99f556fecf45de0c447a26d8c312f1f7343ce9cce722579182b7d8a81be9",
+				"source": "reversing-labs",
+				"versions": [
+					"3.0.2287.946"
+				]
+			}
+		]
+	}
+}
