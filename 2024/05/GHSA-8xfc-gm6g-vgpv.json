@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8xfc-gm6g-vgpv",
-	"modified": "2024-06-19T07:44:35.303723Z",
+	"modified": "2024-07-03T00:44:46.096029Z",
 	"published": "2024-05-14T15:32:54Z",
 	"aliases": [
 		"CGA-p93x-49fc-v5m3",
+		"CGA-xx3m-cg2g-f46r",
 		"CVE-2024-29857"
 	],
 	"summary": "Bouncy Castle certificate parsing issues cause high CPU usage during parameter evaluation.",

@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-v435-xc8x-wvr9",
-	"modified": "2024-06-25T02:35:01.466920Z",
+	"modified": "2024-07-03T00:44:44.008760Z",
 	"published": "2024-05-14T15:32:54Z",
 	"aliases": [
 		"CGA-9727-f845-q3xw",
+		"CGA-j49x-3x3f-7v84",
 		"CVE-2024-30171"
 	],
 	"summary": "Bouncy Castle affected by timing side-channel for RSA key exchange (\"The Marvin Attack\")",
