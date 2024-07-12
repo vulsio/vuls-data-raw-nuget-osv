@@ -1,9 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-447r-wph3-92pm",
-	"modified": "2024-07-09T21:42:44.834953Z",
+	"modified": "2024-07-12T08:12:19.965089Z",
 	"published": "2024-07-09T21:14:53Z",
 	"aliases": [
+		"BIT-dotnet-2024-38095",
+		"BIT-dotnet-sdk-2024-38095",
 		"CVE-2024-38095"
 	],
 	"summary": "Microsoft Security Advisory CVE-2024-38095 | .NET Denial of Service Vulnerability",
