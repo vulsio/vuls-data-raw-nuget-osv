@@ -1,12 +1,20 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-m44j-cfrm-g8qc",
-	"modified": "2024-07-03T00:44:28.022114Z",
+	"modified": "2024-07-15T22:12:27.684338Z",
 	"published": "2024-05-14T15:32:54Z",
 	"aliases": [
-		"CGA-9j68-hcjr-5xfx",
-		"CGA-vxwq-f5f4-5vmj",
 		"CVE-2024-30172"
+	],
+	"related": [
+		"CGA-3433-jrrm-rh79",
+		"CGA-35wp-w6c8-232q",
+		"CGA-449w-qfjv-79c5",
+		"CGA-9j68-hcjr-5xfx",
+		"CGA-gmqh-qfr2-ph66",
+		"CGA-gqpv-r8gf-85p6",
+		"CGA-h5mh-gq4v-54j6",
+		"CGA-vxwq-f5f4-5vmj"
 	],
 	"summary": "Bouncy Castle crafted signature and public key can be used to trigger an infinite loop",
 	"details": "An issue was discovered in Bouncy Castle Java Cryptography APIs before 1.78. An Ed25519 verification code infinite loop can occur via a crafted signature and public key.",
