@@ -1,9 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-chfc-9w6m-75rf",
-	"modified": "2024-07-09T21:42:44.599318Z",
+	"modified": "2024-07-20T08:11:49.448771Z",
 	"published": "2024-07-09T21:14:23Z",
 	"aliases": [
+		"BIT-dotnet-2024-35264",
+		"BIT-dotnet-sdk-2024-35264",
 		"CVE-2024-35264"
 	],
 	"summary": "Microsoft Security Advisory CVE-2024-35264 | .NET Remote Code Execution Vulnerability",
