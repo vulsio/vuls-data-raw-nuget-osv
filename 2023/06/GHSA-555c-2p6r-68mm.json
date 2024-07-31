@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-555c-2p6r-68mm",
-	"modified": "2024-06-03T18:48:47.673802Z",
+	"modified": "2024-07-30T21:20:36.031821Z",
 	"published": "2023-06-14T17:08:54Z",
 	"aliases": [
 		"BIT-dotnet-2023-29331",
@@ -136,8 +136,8 @@
 		{
 			"package": {
 				"ecosystem": "NuGet",
-				"name": "Microsoft.NetCore.App.Runtime.linux-arm",
-				"purl": "pkg:nuget/Microsoft.NetCore.App.Runtime.linux-arm"
+				"name": "Microsoft.NETCore.App.Runtime.linux-arm",
+				"purl": "pkg:nuget/Microsoft.NETCore.App.Runtime.linux-arm"
 			},
 			"ranges": [
 				{
@@ -168,8 +168,8 @@
 		{
 			"package": {
 				"ecosystem": "NuGet",
-				"name": "Microsoft.NetCore.App.Runtime.linux-arm",
-				"purl": "pkg:nuget/Microsoft.NetCore.App.Runtime.linux-arm"
+				"name": "Microsoft.NETCore.App.Runtime.linux-arm",
+				"purl": "pkg:nuget/Microsoft.NETCore.App.Runtime.linux-arm"
 			},
 			"ranges": [
 				{
@@ -211,8 +211,8 @@
 		{
 			"package": {
 				"ecosystem": "NuGet",
-				"name": "Microsoft.NetCore.App.Runtime.linux-arm64",
-				"purl": "pkg:nuget/Microsoft.NetCore.App.Runtime.linux-arm64"
+				"name": "Microsoft.NETCore.App.Runtime.linux-arm64",
+				"purl": "pkg:nuget/Microsoft.NETCore.App.Runtime.linux-arm64"
 			},
 			"ranges": [
 				{
@@ -254,8 +254,8 @@
 		{
 			"package": {
 				"ecosystem": "NuGet",
-				"name": "Microsoft.NetCore.App.Runtime.linux-arm64",
-				"purl": "pkg:nuget/Microsoft.NetCore.App.Runtime.linux-arm64"
+				"name": "Microsoft.NETCore.App.Runtime.linux-arm64",
+				"purl": "pkg:nuget/Microsoft.NETCore.App.Runtime.linux-arm64"
 			},
 			"ranges": [
 				{
@@ -286,8 +286,8 @@
 		{
 			"package": {
 				"ecosystem": "NuGet",
-				"name": "Microsoft.NetCore.App.Runtime.linux-musl-arm",
-				"purl": "pkg:nuget/Microsoft.NetCore.App.Runtime.linux-musl-arm"
+				"name": "Microsoft.NETCore.App.Runtime.linux-musl-arm",
+				"purl": "pkg:nuget/Microsoft.NETCore.App.Runtime.linux-musl-arm"
 			},
 			"ranges": [
 				{
@@ -318,8 +318,8 @@
 		{
 			"package": {
 				"ecosystem": "NuGet",
-				"name": "Microsoft.NetCore.App.Runtime.linux-musl-arm",
-				"purl": "pkg:nuget/Microsoft.NetCore.App.Runtime.linux-musl-arm"
+				"name": "Microsoft.NETCore.App.Runtime.linux-musl-arm",
+				"purl": "pkg:nuget/Microsoft.NETCore.App.Runtime.linux-musl-arm"
 			},
 			"ranges": [
 				{
@@ -361,8 +361,8 @@
 		{
 			"package": {
 				"ecosystem": "NuGet",
-				"name": "Microsoft.NetCore.App.Runtime.linux-musl-arm64",
-				"purl": "pkg:nuget/Microsoft.NetCore.App.Runtime.linux-musl-arm64"
+				"name": "Microsoft.NETCore.App.Runtime.linux-musl-arm64",
+				"purl": "pkg:nuget/Microsoft.NETCore.App.Runtime.linux-musl-arm64"
 			},
 			"ranges": [
 				{
@@ -393,8 +393,8 @@
 		{
 			"package": {
 				"ecosystem": "NuGet",
-				"name": "Microsoft.NetCore.App.Runtime.linux-musl-arm64",
-				"purl": "pkg:nuget/Microsoft.NetCore.App.Runtime.linux-musl-arm64"
+				"name": "Microsoft.NETCore.App.Runtime.linux-musl-arm64",
+				"purl": "pkg:nuget/Microsoft.NETCore.App.Runtime.linux-musl-arm64"
 			},
 			"ranges": [
 				{
@@ -436,8 +436,8 @@
 		{
 			"package": {
 				"ecosystem": "NuGet",
-				"name": "Microsoft.NetCore.App.Runtime.linux-musl-x64",
-				"purl": "pkg:nuget/Microsoft.NetCore.App.Runtime.linux-musl-x64"
+				"name": "Microsoft.NETCore.App.Runtime.linux-musl-x64",
+				"purl": "pkg:nuget/Microsoft.NETCore.App.Runtime.linux-musl-x64"
 			},
 			"ranges": [
 				{
@@ -479,8 +479,8 @@
 		{
 			"package": {
 				"ecosystem": "NuGet",
-				"name": "Microsoft.NetCore.App.Runtime.linux-musl-x64",
-				"purl": "pkg:nuget/Microsoft.NetCore.App.Runtime.linux-musl-x64"
+				"name": "Microsoft.NETCore.App.Runtime.linux-musl-x64",
+				"purl": "pkg:nuget/Microsoft.NETCore.App.Runtime.linux-musl-x64"
 			},
 			"ranges": [
 				{
@@ -511,8 +511,8 @@
 		{
 			"package": {
 				"ecosystem": "NuGet",
-				"name": "Microsoft.NetCore.App.Runtime.linux-x64",
-				"purl": "pkg:nuget/Microsoft.NetCore.App.Runtime.linux-x64"
+				"name": "Microsoft.NETCore.App.Runtime.linux-x64",
+				"purl": "pkg:nuget/Microsoft.NETCore.App.Runtime.linux-x64"
 			},
 			"ranges": [
 				{
@@ -554,8 +554,8 @@
 		{
 			"package": {
 				"ecosystem": "NuGet",
-				"name": "Microsoft.NetCore.App.Runtime.linux-x64",
-				"purl": "pkg:nuget/Microsoft.NetCore.App.Runtime.linux-x64"
+				"name": "Microsoft.NETCore.App.Runtime.linux-x64",
+				"purl": "pkg:nuget/Microsoft.NETCore.App.Runtime.linux-x64"
 			},
 			"ranges": [
 				{
@@ -586,8 +586,8 @@
 		{
 			"package": {
 				"ecosystem": "NuGet",
-				"name": "Microsoft.NetCore.App.Runtime.osx-arm64",
-				"purl": "pkg:nuget/Microsoft.NetCore.App.Runtime.osx-arm64"
+				"name": "Microsoft.NETCore.App.Runtime.osx-arm64",
+				"purl": "pkg:nuget/Microsoft.NETCore.App.Runtime.osx-arm64"
 			},
 			"ranges": [
 				{
@@ -629,8 +629,8 @@
 		{
 			"package": {
 				"ecosystem": "NuGet",
-				"name": "Microsoft.NetCore.App.Runtime.osx-arm64",
-				"purl": "pkg:nuget/Microsoft.NetCore.App.Runtime.osx-arm64"
+				"name": "Microsoft.NETCore.App.Runtime.osx-arm64",
+				"purl": "pkg:nuget/Microsoft.NETCore.App.Runtime.osx-arm64"
 			},
 			"ranges": [
 				{
@@ -661,8 +661,8 @@
 		{
 			"package": {
 				"ecosystem": "NuGet",
-				"name": "Microsoft.NetCore.App.Runtime.osx-x64",
-				"purl": "pkg:nuget/Microsoft.NetCore.App.Runtime.osx-x64"
+				"name": "Microsoft.NETCore.App.Runtime.osx-x64",
+				"purl": "pkg:nuget/Microsoft.NETCore.App.Runtime.osx-x64"
 			},
 			"ranges": [
 				{
@@ -704,8 +704,8 @@
 		{
 			"package": {
 				"ecosystem": "NuGet",
-				"name": "Microsoft.NetCore.App.Runtime.osx-x64",
-				"purl": "pkg:nuget/Microsoft.NetCore.App.Runtime.osx-x64"
+				"name": "Microsoft.NETCore.App.Runtime.osx-x64",
+				"purl": "pkg:nuget/Microsoft.NETCore.App.Runtime.osx-x64"
 			},
 			"ranges": [
 				{
@@ -736,8 +736,8 @@
 		{
 			"package": {
 				"ecosystem": "NuGet",
-				"name": "Microsoft.NetCore.App.Runtime.win-arm",
-				"purl": "pkg:nuget/Microsoft.NetCore.App.Runtime.win-arm"
+				"name": "Microsoft.NETCore.App.Runtime.win-arm",
+				"purl": "pkg:nuget/Microsoft.NETCore.App.Runtime.win-arm"
 			},
 			"ranges": [
 				{
@@ -779,8 +779,8 @@
 		{
 			"package": {
 				"ecosystem": "NuGet",
-				"name": "Microsoft.NetCore.App.Runtime.win-arm",
-				"purl": "pkg:nuget/Microsoft.NetCore.App.Runtime.win-arm"
+				"name": "Microsoft.NETCore.App.Runtime.win-arm",
+				"purl": "pkg:nuget/Microsoft.NETCore.App.Runtime.win-arm"
 			},
 			"ranges": [
 				{
@@ -811,8 +811,8 @@
 		{
 			"package": {
 				"ecosystem": "NuGet",
-				"name": "Microsoft.NetCore.App.Runtime.win-arm64",
-				"purl": "pkg:nuget/Microsoft.NetCore.App.Runtime.win-arm64"
+				"name": "Microsoft.NETCore.App.Runtime.win-arm64",
+				"purl": "pkg:nuget/Microsoft.NETCore.App.Runtime.win-arm64"
 			},
 			"ranges": [
 				{
@@ -854,8 +854,8 @@
 		{
 			"package": {
 				"ecosystem": "NuGet",
-				"name": "Microsoft.NetCore.App.Runtime.win-arm64",
-				"purl": "pkg:nuget/Microsoft.NetCore.App.Runtime.win-arm64"
+				"name": "Microsoft.NETCore.App.Runtime.win-arm64",
+				"purl": "pkg:nuget/Microsoft.NETCore.App.Runtime.win-arm64"
 			},
 			"ranges": [
 				{
@@ -886,8 +886,8 @@
 		{
 			"package": {
 				"ecosystem": "NuGet",
-				"name": "Microsoft.NetCore.App.Runtime.win-x64",
-				"purl": "pkg:nuget/Microsoft.NetCore.App.Runtime.win-x64"
+				"name": "Microsoft.NETCore.App.Runtime.win-x64",
+				"purl": "pkg:nuget/Microsoft.NETCore.App.Runtime.win-x64"
 			},
 			"ranges": [
 				{
@@ -929,8 +929,8 @@
 		{
 			"package": {
 				"ecosystem": "NuGet",
-				"name": "Microsoft.NetCore.App.Runtime.win-x64",
-				"purl": "pkg:nuget/Microsoft.NetCore.App.Runtime.win-x64"
+				"name": "Microsoft.NETCore.App.Runtime.win-x64",
+				"purl": "pkg:nuget/Microsoft.NETCore.App.Runtime.win-x64"
 			},
 			"ranges": [
 				{
@@ -961,8 +961,8 @@
 		{
 			"package": {
 				"ecosystem": "NuGet",
-				"name": "Microsoft.NetCore.App.Runtime.win-x86",
-				"purl": "pkg:nuget/Microsoft.NetCore.App.Runtime.win-x86"
+				"name": "Microsoft.NETCore.App.Runtime.win-x86",
+				"purl": "pkg:nuget/Microsoft.NETCore.App.Runtime.win-x86"
 			},
 			"ranges": [
 				{
@@ -993,8 +993,8 @@
 		{
 			"package": {
 				"ecosystem": "NuGet",
-				"name": "Microsoft.NetCore.App.Runtime.win-x86",
-				"purl": "pkg:nuget/Microsoft.NetCore.App.Runtime.win-x86"
+				"name": "Microsoft.NETCore.App.Runtime.win-x86",
+				"purl": "pkg:nuget/Microsoft.NETCore.App.Runtime.win-x86"
 			},
 			"ranges": [
 				{
