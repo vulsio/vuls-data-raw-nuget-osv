@@ -1,10 +1,12 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4jqc-8m5r-9rpr",
-	"modified": "2024-07-31T19:26:49.292186Z",
+	"modified": "2024-08-01T07:26:36.021378Z",
 	"published": "2021-09-13T20:09:36Z",
 	"aliases": [
-		"CVE-2021-23440"
+		"CVE-2021-23440",
+		"SNYK-JAVA-ORGWEBJARSNPM-1584212",
+		"SNYK-JS-SETVALUE-1540541"
 	],
 	"summary": "Prototype Pollution in set-value",
 	"details": "This affects the package `set-value`. A type confusion vulnerability can lead to a bypass of CVE-2019-10747 when the user-provided keys used in the path parameter are arrays.",
