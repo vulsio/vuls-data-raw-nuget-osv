@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8xfc-gm6g-vgpv",
-	"modified": "2024-07-15T22:27:04.580095Z",
+	"modified": "2024-08-15T21:47:00.695044Z",
 	"published": "2024-05-14T15:32:54Z",
 	"aliases": [
 		"CVE-2024-29857"
@@ -573,6 +573,7 @@
 	],
 	"database_specific": {
 		"cwe_ids": [
+			"CWE-125",
 			"CWE-400"
 		],
 		"github_reviewed": true,
