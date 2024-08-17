@@ -1,9 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3r34-r6w3-fqp6",
-	"modified": "2024-08-13T19:57:01.942246Z",
+	"modified": "2024-08-17T08:12:09.176845Z",
 	"published": "2024-08-13T19:26:10Z",
 	"aliases": [
+		"BIT-dotnet-2024-38167",
+		"BIT-dotnet-sdk-2024-38167",
 		"CVE-2024-38167"
 	],
 	"summary": "Microsoft Security Advisory CVE-2024-38167 | .NET Information Disclosure Vulnerability",
