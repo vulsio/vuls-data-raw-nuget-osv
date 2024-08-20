@@ -1,9 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hq7w-xv5x-g34j",
-	"modified": "2024-07-09T21:42:44.754847Z",
+	"modified": "2024-08-20T08:13:42.950573Z",
 	"published": "2024-07-09T21:14:35Z",
 	"aliases": [
+		"BIT-dotnet-2024-38081",
+		"BIT-dotnet-sdk-2024-38081",
 		"CVE-2024-38081"
 	],
 	"summary": "Microsoft Security Advisory CVE-2024-38081 | .NET Denial of Service Vulnerability",
