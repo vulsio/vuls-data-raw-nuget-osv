@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5x5q-cqf6-gj8r",
-	"modified": "2024-08-29T21:29:18.941068Z",
+	"modified": "2024-09-04T21:45:45.210487Z",
 	"published": "2024-08-29T18:31:36Z",
 	"aliases": [
 		"CVE-2024-44930"
@@ -11,7 +11,7 @@
 	"severity": [
 		{
 			"type": "CVSS_V3",
-			"score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:N"
+			"score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:L/I:L/A:N"
 		},
 		{
 			"type": "CVSS_V4",
@@ -86,7 +86,8 @@
 	],
 	"database_specific": {
 		"cwe_ids": [
-			"CWE-348"
+			"CWE-348",
+			"CWE-79"
 		],
 		"github_reviewed": true,
 		"github_reviewed_at": "2024-08-29T21:07:16Z",
