@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-qxrv-gp6x-rc23",
-	"modified": "2024-07-22T17:58:12.722810Z",
+	"modified": "2024-09-11T16:31:53.507574Z",
 	"published": "2024-07-22T17:42:33Z",
 	"aliases": [
 		"CVE-2024-41132"
@@ -151,6 +151,7 @@
 	],
 	"database_specific": {
 		"cwe_ids": [
+			"CWE-770",
 			"CWE-789"
 		],
 		"github_reviewed": true,
