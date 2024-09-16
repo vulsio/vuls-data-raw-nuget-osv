@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5v8v-66v8-mwm7",
-	"modified": "2024-03-14T05:16:34.614233Z",
+	"modified": "2024-09-16T14:58:39.150042Z",
 	"published": "2022-05-24T17:28:21Z",
 	"aliases": [
 		"BIT-brotli-2020-8927",
@@ -21,6 +21,10 @@
 		{
 			"type": "CVSS_V3",
 			"score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:N/I:L/A:L"
+		},
+		{
+			"type": "CVSS_V4",
+			"score": "CVSS:4.0/AV:N/AC:L/AT:N/PR:N/UI:N/VC:N/VI:L/VA:L/SC:N/SI:N/SA:N"
 		}
 	],
 	"affected": [
@@ -4654,6 +4658,37 @@
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/05/GHSA-5v8v-66v8-mwm7/GHSA-5v8v-66v8-mwm7.json"
 			}
+		},
+		{
+			"package": {
+				"ecosystem": "PyPI",
+				"name": "brotli",
+				"purl": "pkg:pypi/brotli"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"fixed": "1.0.8"
+						}
+					]
+				}
+			],
+			"versions": [
+				"0.5.2",
+				"0.6.0",
+				"1.0.1",
+				"1.0.4",
+				"1.0.6",
+				"1.0.7"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/05/GHSA-5v8v-66v8-mwm7/GHSA-5v8v-66v8-mwm7.json"
+			}
 		}
 	],
 	"references": [
@@ -4668,6 +4703,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/github/advisory-database/issues/785"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/google/brotli/commit/223d80cfbec8fd346e32906c732c8ede21f0cea6"
 		},
 		{
 			"type": "WEB",
@@ -4727,7 +4766,15 @@
 		},
 		{
 			"type": "WEB",
+			"url": "https://github.com/pypa/advisory-database/tree/main/vulns/brotli/PYSEC-2020-29.yaml"
+		},
+		{
+			"type": "WEB",
 			"url": "https://github.com/google/brotli/releases/tag/v1.0.9"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/google/brotli/releases/tag/v1.0.8"
 		},
 		{
 			"type": "PACKAGE",
