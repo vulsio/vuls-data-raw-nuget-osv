@@ -7,13 +7,17 @@
 		"CVE-2024-29857"
 	],
 	"related": [
+		"CGA-29h3-969m-j2cr",
 		"CGA-448v-pf2r-j83m",
+		"CGA-4cgj-59hq-h2hc",
 		"CGA-4ph3-8p4p-wr86",
 		"CGA-5hp5-r4pg-f3p7",
 		"CGA-89h2-vv89-63r8",
+		"CGA-cw5g-gfw6-xx43",
 		"CGA-f25f-36f8-w45w",
 		"CGA-p93x-49fc-v5m3",
 		"CGA-pfv3-x3hq-59qp",
+		"CGA-vmgg-m99c-vcmm",
 		"CGA-xx3m-cg2g-f46r"
 	],
 	"summary": "Bouncy Castle certificate parsing issues cause high CPU usage during parameter evaluation.",
