@@ -1,9 +1,12 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-m44j-cfrm-g8qc",
-	"modified": "2024-09-09T21:50:09.794497Z",
+	"modified": "2024-10-22T05:29:01.442957Z",
 	"published": "2024-05-14T15:32:54Z",
 	"aliases": [
+		"CGA-96m8-9rvf-gh6w",
+		"CGA-jjwj-6v39-vh3f",
+		"CGA-qh5m-p3cq-84w2",
 		"CVE-2024-30172"
 	],
 	"related": [

@@ -1,9 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8g4q-xg66-9fp4",
-	"modified": "2024-10-09T01:26:25.851702Z",
+	"modified": "2024-10-22T07:57:07.969287Z",
 	"published": "2024-10-08T20:25:19Z",
 	"aliases": [
+		"BIT-dotnet-2024-43485",
+		"BIT-dotnet-sdk-2024-43485",
 		"CVE-2024-43485"
 	],
 	"summary": "Microsoft Security Advisory CVE-2024-43485 | .NET Denial of Service Vulnerability",

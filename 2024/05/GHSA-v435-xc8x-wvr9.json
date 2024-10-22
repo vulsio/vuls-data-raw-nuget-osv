@@ -1,9 +1,12 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-v435-xc8x-wvr9",
-	"modified": "2024-09-09T21:30:51.867590Z",
+	"modified": "2024-10-22T05:28:59.209889Z",
 	"published": "2024-05-14T15:32:54Z",
 	"aliases": [
+		"CGA-2f4h-fc34-cw83",
+		"CGA-5mrq-75x2-g8hj",
+		"CGA-9qv8-44xh-vf2p",
 		"CVE-2024-30171"
 	],
 	"related": [

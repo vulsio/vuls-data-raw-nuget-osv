@@ -1,9 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-f32c-w444-8ppv",
-	"modified": "2024-10-09T01:42:08.882159Z",
+	"modified": "2024-10-22T07:57:15.514804Z",
 	"published": "2024-10-08T20:24:56Z",
 	"aliases": [
+		"BIT-dotnet-2024-43484",
+		"BIT-dotnet-sdk-2024-43484",
 		"CVE-2024-43484"
 	],
 	"summary": "Microsoft Security Advisory CVE-2024-43484 | .NET Denial of Service Vulnerability",
