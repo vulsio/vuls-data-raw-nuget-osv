@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-4611",
-	"modified": "2024-06-25T13:30:48Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:30:48Z",
 	"summary": "Malicious code in PayPalMerchant.SDK (NuGet)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -56,6 +56,12 @@
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/nuget/paypalmerchant.sdk/MAL-2024-4611.json"
 			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://www.reversinglabs.com/blog/malicious-nuget-campaign-uses-homoglyphs-and-il-weaving-to-fool-devs"
 		}
 	],
 	"credits": [
@@ -116,6 +122,13 @@
 					"45.51.0",
 					"45.40.9"
 				]
+			},
+			{
+				"id": "RLUA-2024-07713",
+				"import_time": "2024-10-24T00:58:40.611827776Z",
+				"modified_time": "2024-10-16T13:48:20Z",
+				"sha256": "f2b708691b7e2a2bc5eaac305dc06ed3400a09dffa4423758a6757334571ec7e",
+				"source": "reversing-labs"
 			}
 		]
 	}

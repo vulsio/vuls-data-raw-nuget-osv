@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-3998",
-	"modified": "2024-06-25T13:23:17Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:23:17Z",
 	"summary": "Malicious code in AlgoTrading (NuGet)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -120,6 +120,12 @@
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/nuget/algotrading/MAL-2024-3998.json"
 			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://www.reversinglabs.com/blog/malicious-nuget-campaign-uses-homoglyphs-and-il-weaving-to-fool-devs"
 		}
 	],
 	"credits": [
@@ -244,6 +250,13 @@
 					"1.0.1",
 					"1.0.14"
 				]
+			},
+			{
+				"id": "RLUA-2024-07629",
+				"import_time": "2024-10-24T00:58:35.121151947Z",
+				"modified_time": "2024-10-16T13:47:25Z",
+				"sha256": "e279eb21b037f7c312eceed38a13bd49db32fd09763cce8756cfb740d7c50e97",
+				"source": "reversing-labs"
 			}
 		]
 	}

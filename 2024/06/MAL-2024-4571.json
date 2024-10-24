@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-4571",
-	"modified": "2024-06-25T13:30:21Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:30:21Z",
 	"summary": "Malicious code in NotifyIcon.Net (NuGet)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -81,6 +81,12 @@
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/nuget/notifyicon.net/MAL-2024-4571.json"
 			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://www.reversinglabs.com/blog/malicious-nuget-campaign-uses-homoglyphs-and-il-weaving-to-fool-devs"
 		}
 	],
 	"credits": [
@@ -166,6 +172,13 @@
 					"1.0.13",
 					"1.0.14"
 				]
+			},
+			{
+				"id": "RLUA-2024-07685",
+				"import_time": "2024-10-24T00:58:38.752972983Z",
+				"modified_time": "2024-10-16T13:48:02Z",
+				"sha256": "0a7b228d6bfa841ea277695755dd9a27329d5b39d82599dbf29811948793f0f3",
+				"source": "reversing-labs"
 			}
 		]
 	}

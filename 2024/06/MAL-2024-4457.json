@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-4457",
-	"modified": "2024-06-25T13:28:56Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:28:56Z",
 	"summary": "Malicious code in CsvHelper.Excel.Core.Net (NuGet)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -27,6 +27,12 @@
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/nuget/csvhelper.excel.core.net/MAL-2024-4457.json"
 			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://www.reversinglabs.com/blog/malicious-nuget-campaign-uses-homoglyphs-and-il-weaving-to-fool-devs"
 		}
 	],
 	"credits": [
@@ -58,6 +64,13 @@
 					"1.4.3",
 					"0.8.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-07659",
+				"import_time": "2024-10-24T00:58:37.011058271Z",
+				"modified_time": "2024-10-16T13:47:46Z",
+				"sha256": "2c5fb8df0a1b4501ad5bf58e2c312033e81bec99964548abcb7267f8146b6e75",
+				"source": "reversing-labs"
 			}
 		]
 	}

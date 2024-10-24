@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-4503",
-	"modified": "2024-06-25T13:29:29Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:29:29Z",
 	"summary": "Malicious code in Gunа.GUI (NuGet)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -61,6 +61,12 @@
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/nuget/gunа.gui/MAL-2024-4503.json"
 			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://www.reversinglabs.com/blog/malicious-nuget-campaign-uses-homoglyphs-and-il-weaving-to-fool-devs"
 		}
 	],
 	"credits": [
@@ -126,6 +132,13 @@
 					"1.0.13",
 					"1.0.14"
 				]
+			},
+			{
+				"id": "RLUA-2024-07667",
+				"import_time": "2024-10-24T00:58:37.591766783Z",
+				"modified_time": "2024-10-16T13:47:51Z",
+				"sha256": "dcea80c7523979a3df84eeb19f6c15e6c395941e200e6f714e3af61adb190348",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-4000",
-	"modified": "2024-06-25T13:23:19Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:23:19Z",
 	"summary": "Malicious code in Altcoins (NuGet)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -54,6 +54,12 @@
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/nuget/altcoins/MAL-2024-4000.json"
 			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://www.reversinglabs.com/blog/malicious-nuget-campaign-uses-homoglyphs-and-il-weaving-to-fool-devs"
 		}
 	],
 	"credits": [
@@ -112,6 +118,13 @@
 					"1.0.13",
 					"1.0.14"
 				]
+			},
+			{
+				"id": "RLUA-2024-07631",
+				"import_time": "2024-10-24T00:58:35.240235648Z",
+				"modified_time": "2024-10-16T13:47:26Z",
+				"sha256": "6d957d05074d14d72839f19f4aa508dea6e765910e8d84afbd28b475639162e0",
+				"source": "reversing-labs"
 			}
 		]
 	}

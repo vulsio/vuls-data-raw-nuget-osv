@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-4002",
-	"modified": "2024-06-25T13:23:20Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:23:20Z",
 	"summary": "Malicious code in AnimatedGifWpf (NuGet)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -52,6 +52,12 @@
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/nuget/animatedgifwpf/MAL-2024-4002.json"
 			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://www.reversinglabs.com/blog/malicious-nuget-campaign-uses-homoglyphs-and-il-weaving-to-fool-devs"
 		}
 	],
 	"credits": [
@@ -108,6 +114,13 @@
 					"1.9.1",
 					"1.8.6"
 				]
+			},
+			{
+				"id": "RLUA-2024-07633",
+				"import_time": "2024-10-24T00:58:35.375672021Z",
+				"modified_time": "2024-10-16T13:47:27Z",
+				"sha256": "e9096960e8fd276a3b5ad907a64ee5f80d4bea93c40737dc1cf7a0cfae8edac9",
+				"source": "reversing-labs"
 			}
 		]
 	}

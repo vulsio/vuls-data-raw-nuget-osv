@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-4681",
-	"modified": "2024-06-25T13:31:35Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:31:35Z",
 	"summary": "Malicious code in Tessa.Postgre.Sql (NuGet)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -18,6 +18,12 @@
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/nuget/tessa.postgre.sql/MAL-2024-4681.json"
 			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://www.reversinglabs.com/blog/iamreboot-malicious-nuget-packages-exploit-msbuild-loophole"
 		}
 	],
 	"credits": [
@@ -40,6 +46,13 @@
 				"versions": [
 					"3.6.0.16"
 				]
+			},
+			{
+				"id": "RLUA-2024-07746",
+				"import_time": "2024-10-24T00:58:42.835153316Z",
+				"modified_time": "2024-10-16T13:48:43Z",
+				"sha256": "9e462bcfac3b95112a5b7595a702ef40cbe69ddf4aa2810c61593a957d2133b8",
+				"source": "reversing-labs"
 			}
 		]
 	}

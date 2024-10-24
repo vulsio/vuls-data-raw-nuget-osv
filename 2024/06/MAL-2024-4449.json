@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-4449",
-	"modified": "2024-06-25T13:28:50Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:28:50Z",
 	"summary": "Malicious code in CodeExecTest (NuGet)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -18,6 +18,12 @@
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/nuget/codeexectest/MAL-2024-4449.json"
 			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://www.reversinglabs.com/blog/iamreboot-malicious-nuget-packages-exploit-msbuild-loophole"
 		}
 	],
 	"credits": [
@@ -40,6 +46,13 @@
 				"versions": [
 					"2.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07657",
+				"import_time": "2024-10-24T00:58:36.923443977Z",
+				"modified_time": "2024-10-16T13:47:45Z",
+				"sha256": "53dfa22685a27c17495666d5a9de36cace330110d989311b471a72ce01f18d6a",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-4583",
-	"modified": "2024-06-25T13:30:25Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:30:25Z",
 	"summary": "Malicious code in OCI.DotNetSDK.Apm.config (NuGet)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -18,6 +18,12 @@
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/nuget/oci.dotnetsdk.apm.config/MAL-2024-4583.json"
 			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://www.reversinglabs.com/blog/iamreboot-malicious-nuget-packages-exploit-msbuild-loophole"
 		}
 	],
 	"credits": [
@@ -40,6 +46,13 @@
 				"versions": [
 					"73.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07690",
+				"import_time": "2024-10-24T00:58:39.09450484Z",
+				"modified_time": "2024-10-16T13:48:05Z",
+				"sha256": "f28060fc14fabb407da7a8857df16437575033c07276e66f15da094f96cbdf1f",
+				"source": "reversing-labs"
 			}
 		]
 	}

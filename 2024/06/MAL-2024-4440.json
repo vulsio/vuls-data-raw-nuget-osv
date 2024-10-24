@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-4440",
-	"modified": "2024-06-25T13:28:44Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:28:44Z",
 	"summary": "Malicious code in CefSharp.WinForm.Net.Core (NuGet)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -27,6 +27,12 @@
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/nuget/cefsharp.winform.net.core/MAL-2024-4440.json"
 			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://www.reversinglabs.com/blog/malicious-nuget-campaign-uses-homoglyphs-and-il-weaving-to-fool-devs"
 		}
 	],
 	"credits": [
@@ -58,6 +64,13 @@
 					"112.2.20",
 					"112.3.20"
 				]
+			},
+			{
+				"id": "RLUA-2024-07648",
+				"import_time": "2024-10-24T00:58:36.409765826Z",
+				"modified_time": "2024-10-16T13:47:39Z",
+				"sha256": "9448da22be24d5d3aee5664675e852284926d6a39fa1e8b7704cc79e474d7d2c",
+				"source": "reversing-labs"
 			}
 		]
 	}

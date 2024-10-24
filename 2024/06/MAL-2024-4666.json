@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-4666",
-	"modified": "2024-06-25T13:31:29Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:31:29Z",
 	"summary": "Malicious code in Syntellect.Winium.Cruciatus.Net (NuGet)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -18,6 +18,12 @@
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/nuget/syntellect.winium.cruciatus.net/MAL-2024-4666.json"
 			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://www.reversinglabs.com/blog/iamreboot-malicious-nuget-packages-exploit-msbuild-loophole"
 		}
 	],
 	"credits": [
@@ -40,6 +46,13 @@
 				"versions": [
 					"3.1.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07738",
+				"import_time": "2024-10-24T00:58:42.284512594Z",
+				"modified_time": "2024-10-16T13:48:38Z",
+				"sha256": "d470bc2d7f711a9d2329f76306926631c63c3daf7f83e30529e67145cd84e1e7",
+				"source": "reversing-labs"
 			}
 		]
 	}

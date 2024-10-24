@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-4432",
-	"modified": "2024-06-25T13:28:35Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:28:35Z",
 	"summary": "Malicious code in C1.Wіn (NuGet)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -30,6 +30,12 @@
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/nuget/c1.wіn/MAL-2024-4432.json"
 			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://www.reversinglabs.com/blog/malicious-nuget-campaign-uses-homoglyphs-and-il-weaving-to-fool-devs"
 		}
 	],
 	"credits": [
@@ -64,6 +70,13 @@
 					"6.0.20232.630",
 					"6.0.20232.620"
 				]
+			},
+			{
+				"id": "RLUA-2024-07642",
+				"import_time": "2024-10-24T00:58:35.928576642Z",
+				"modified_time": "2024-10-16T13:47:35Z",
+				"sha256": "428c57eb6b304618bb459055da68ce1026446aae3588cdfb49f9f0e79710160c",
+				"source": "reversing-labs"
 			}
 		]
 	}

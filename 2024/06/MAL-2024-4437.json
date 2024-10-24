@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-4437",
-	"modified": "2024-06-25T13:28:41Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:28:41Z",
 	"summary": "Malicious code in CData.Salesforce.Net.Framework (NuGet)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -20,6 +20,12 @@
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/nuget/cdata.salesforce.net.framework/MAL-2024-4437.json"
 			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://www.reversinglabs.com/blog/iamreboot-malicious-nuget-packages-exploit-msbuild-loophole"
 		}
 	],
 	"credits": [
@@ -44,6 +50,13 @@
 					"23.0.8671",
 					"23.0.8670"
 				]
+			},
+			{
+				"id": "RLUA-2024-07644",
+				"import_time": "2024-10-24T00:58:36.15299323Z",
+				"modified_time": "2024-10-16T13:47:36Z",
+				"sha256": "0885e7a6d6a9d8b13a3b171cd7355dbdf16af545bacda474983da110e04578b9",
+				"source": "reversing-labs"
 			}
 		]
 	}

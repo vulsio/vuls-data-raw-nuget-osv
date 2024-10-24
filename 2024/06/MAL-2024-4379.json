@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-4379",
-	"modified": "2024-06-25T13:28:27Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:28:27Z",
 	"summary": "Malicious code in Bunifu.GUI (NuGet)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -63,6 +63,12 @@
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/nuget/bunifu.gui/MAL-2024-4379.json"
 			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://www.reversinglabs.com/blog/malicious-nuget-campaign-uses-homoglyphs-and-il-weaving-to-fool-devs"
 		}
 	],
 	"credits": [
@@ -130,6 +136,13 @@
 					"1.0.13",
 					"1.0.14"
 				]
+			},
+			{
+				"id": "RLUA-2024-07641",
+				"import_time": "2024-10-24T00:58:35.864902319Z",
+				"modified_time": "2024-10-16T13:47:34Z",
+				"sha256": "9a2871022ded37f798263896a89d218378fa53dec3982b2f99690718345aad88",
+				"source": "reversing-labs"
 			}
 		]
 	}

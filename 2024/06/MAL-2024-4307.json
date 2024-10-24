@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-4307",
-	"modified": "2024-06-25T13:27:36Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:27:36Z",
 	"summary": "Malicious code in Binance.Libary (NuGet)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -27,6 +27,12 @@
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/nuget/binance.libary/MAL-2024-4307.json"
 			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://www.reversinglabs.com/blog/malicious-nuget-campaign-uses-homoglyphs-and-il-weaving-to-fool-devs"
 		}
 	],
 	"credits": [
@@ -58,6 +64,13 @@
 					"0.8.7",
 					"3.3.4"
 				]
+			},
+			{
+				"id": "RLUA-2024-07636",
+				"import_time": "2024-10-24T00:58:35.659319985Z",
+				"modified_time": "2024-10-16T13:47:29Z",
+				"sha256": "0826b897afda6321d0e6cc2353c149f0d780e6517e7f889e05b7abe1a83a905a",
+				"source": "reversing-labs"
 			}
 		]
 	}

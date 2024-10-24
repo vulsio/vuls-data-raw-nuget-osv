@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-4639",
-	"modified": "2024-06-25T13:31:10Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:31:10Z",
 	"summary": "Malicious code in Shade.UI.WinForms (NuGet)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -80,6 +80,12 @@
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/nuget/shade.ui.winforms/MAL-2024-4639.json"
 			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://www.reversinglabs.com/blog/malicious-nuget-campaign-uses-homoglyphs-and-il-weaving-to-fool-devs"
 		}
 	],
 	"credits": [
@@ -164,6 +170,13 @@
 					"1.0.13",
 					"1.0.14"
 				]
+			},
+			{
+				"id": "RLUA-2024-07724",
+				"import_time": "2024-10-24T00:58:41.349954127Z",
+				"modified_time": "2024-10-16T13:48:28Z",
+				"sha256": "3b40321f76a2ca62e6dfc0e16c1a56fb7ec2f63048b4afd40c469bcc09acda39",
+				"source": "reversing-labs"
 			}
 		]
 	}

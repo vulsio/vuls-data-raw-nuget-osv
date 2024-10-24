@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-4630",
-	"modified": "2024-06-25T13:31:01Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:31:01Z",
 	"summary": "Malicious code in Rimworld.References.Net (NuGet)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -27,6 +27,12 @@
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/nuget/rimworld.references.net/MAL-2024-4630.json"
 			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://www.reversinglabs.com/blog/malicious-nuget-campaign-uses-homoglyphs-and-il-weaving-to-fool-devs"
 		}
 	],
 	"credits": [
@@ -58,6 +64,13 @@
 					"4.3.0",
 					"2.5.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07721",
+				"import_time": "2024-10-24T00:58:41.193314198Z",
+				"modified_time": "2024-10-16T13:48:26Z",
+				"sha256": "b55af2e3e97f7f090e1e1405bd53d285ea23e0ec220061be9d4db807ae0791a6",
+				"source": "reversing-labs"
 			}
 		]
 	}

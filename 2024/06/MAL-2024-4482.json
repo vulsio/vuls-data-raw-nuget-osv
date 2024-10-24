@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-4482",
-	"modified": "2024-06-25T13:29:09Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:29:09Z",
 	"summary": "Malicious code in EBBuildClient.Net (NuGet)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -18,6 +18,12 @@
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/nuget/ebbuildclient.net/MAL-2024-4482.json"
 			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://www.reversinglabs.com/blog/iamreboot-malicious-nuget-packages-exploit-msbuild-loophole"
 		}
 	],
 	"credits": [
@@ -40,6 +46,13 @@
 				"versions": [
 					"1.0.92"
 				]
+			},
+			{
+				"id": "RLUA-2024-07663",
+				"import_time": "2024-10-24T00:58:37.232824974Z",
+				"modified_time": "2024-10-16T13:47:48Z",
+				"sha256": "3225a4357c22aa7a21f0f0d36278b8919ee549bc2648a330f4c56db260a9f2ab",
+				"source": "reversing-labs"
 			}
 		]
 	}

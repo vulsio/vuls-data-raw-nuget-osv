@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-4441",
-	"modified": "2024-06-25T13:28:45Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:28:45Z",
 	"summary": "Malicious code in Celigo.Service.Manager.NetSuite (NuGet)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -18,6 +18,12 @@
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/nuget/celigo.service.manager.netsuite/MAL-2024-4441.json"
 			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://www.reversinglabs.com/blog/iamreboot-malicious-nuget-packages-exploit-msbuild-loophole"
 		}
 	],
 	"credits": [
@@ -40,6 +46,13 @@
 				"versions": [
 					"7.1.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-07649",
+				"import_time": "2024-10-24T00:58:36.44950814Z",
+				"modified_time": "2024-10-16T13:47:39Z",
+				"sha256": "78bc01a1c2f62770e5eba9e6d2f8994c4a539549ddca2f1aab0cff2e79079be2",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-4684",
-	"modified": "2024-06-25T13:31:38Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:31:38Z",
 	"summary": "Malicious code in Tessa.Web.Client.Net (NuGet)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -18,6 +18,12 @@
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/nuget/tessa.web.client.net/MAL-2024-4684.json"
 			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://www.reversinglabs.com/blog/iamreboot-malicious-nuget-packages-exploit-msbuild-loophole"
 		}
 	],
 	"credits": [
@@ -40,6 +46,13 @@
 				"versions": [
 					"3.6.0.16"
 				]
+			},
+			{
+				"id": "RLUA-2024-07749",
+				"import_time": "2024-10-24T00:58:43.00440081Z",
+				"modified_time": "2024-10-16T13:48:44Z",
+				"sha256": "b84dc7d2b63b891aabbcc10b5d91b3e36e2da3b766177948d3dc7d08964fc44a",
+				"source": "reversing-labs"
 			}
 		]
 	}

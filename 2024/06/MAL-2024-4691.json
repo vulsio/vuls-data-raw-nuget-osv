@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-4691",
-	"modified": "2024-06-25T13:31:42Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:31:42Z",
 	"summary": "Malicious code in Ultimate.Wpf.Toolkit (NuGet)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -219,6 +219,12 @@
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/nuget/ultimate.wpf.toolkit/MAL-2024-4691.json"
 			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://www.reversinglabs.com/blog/malicious-nuget-campaign-uses-homoglyphs-and-il-weaving-to-fool-devs"
 		}
 	],
 	"credits": [
@@ -442,6 +448,13 @@
 					"1.0.127",
 					"1.0.14"
 				]
+			},
+			{
+				"id": "RLUA-2024-07753",
+				"import_time": "2024-10-24T00:58:43.209088893Z",
+				"modified_time": "2024-10-16T13:48:47Z",
+				"sha256": "c78b50a7e1e74842989d6eaa58b50d8f6f9a5603bd96a513ef5298f06770fb1c",
+				"source": "reversing-labs"
 			}
 		]
 	}

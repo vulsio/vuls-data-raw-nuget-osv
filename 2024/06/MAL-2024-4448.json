@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-4448",
-	"modified": "2024-06-25T13:28:49Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:28:49Z",
 	"summary": "Malicious code in Clipboard.net (NuGet)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -262,6 +262,12 @@
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/nuget/clipboard.net/MAL-2024-4448.json"
 			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://www.reversinglabs.com/blog/malicious-nuget-campaign-uses-homoglyphs-and-il-weaving-to-fool-devs"
 		}
 	],
 	"credits": [
@@ -528,6 +534,13 @@
 					"1.1.69",
 					"1.0.14"
 				]
+			},
+			{
+				"id": "RLUA-2024-07656",
+				"import_time": "2024-10-24T00:58:36.884211718Z",
+				"modified_time": "2024-10-16T13:47:44Z",
+				"sha256": "01524d6637ad7716a31c14971b78fde07f1ad1a170bde11b06862d431787e58e",
+				"source": "reversing-labs"
 			}
 		]
 	}

@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-4526",
-	"modified": "2024-06-25T13:29:43Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:29:43Z",
 	"summary": "Malicious code in LagoVista.CloudStorage.Net (NuGet)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -18,6 +18,12 @@
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/nuget/lagovista.cloudstorage.net/MAL-2024-4526.json"
 			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://www.reversinglabs.com/blog/iamreboot-malicious-nuget-packages-exploit-msbuild-loophole"
 		}
 	],
 	"credits": [
@@ -40,6 +46,13 @@
 				"versions": [
 					"3.0.2287.946"
 				]
+			},
+			{
+				"id": "RLUA-2024-07674",
+				"import_time": "2024-10-24T00:58:37.981122204Z",
+				"modified_time": "2024-10-16T13:47:55Z",
+				"sha256": "75517890c59e434b71a2ef3fe112dfbccc93beb3e9178746861b396605b87816",
+				"source": "reversing-labs"
 			}
 		]
 	}

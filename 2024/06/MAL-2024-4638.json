@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-4638",
-	"modified": "2024-06-25T13:31:09Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:31:09Z",
 	"summary": "Malicious code in Sanka.UI3.WinForms (NuGet)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -69,6 +69,12 @@
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/nuget/sanka.ui3.winforms/MAL-2024-4638.json"
 			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://www.reversinglabs.com/blog/malicious-nuget-campaign-uses-homoglyphs-and-il-weaving-to-fool-devs"
 		}
 	],
 	"credits": [
@@ -142,6 +148,13 @@
 					"3.7.41",
 					"3.7.53"
 				]
+			},
+			{
+				"id": "RLUA-2024-07723",
+				"import_time": "2024-10-24T00:58:41.300483514Z",
+				"modified_time": "2024-10-16T13:48:28Z",
+				"sha256": "cd8c03cd7ab42f69675e1f9bb9ad220b8a7f2ee7347acfa01ab84bccefa7463c",
+				"source": "reversing-labs"
 			}
 		]
 	}

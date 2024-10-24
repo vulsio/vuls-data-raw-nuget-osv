@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-4696",
-	"modified": "2024-06-25T13:31:48Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:31:48Z",
 	"summary": "Malicious code in Winforms (NuGet)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -63,6 +63,12 @@
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/nuget/winforms/MAL-2024-4696.json"
 			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://www.reversinglabs.com/blog/malicious-nuget-campaign-uses-homoglyphs-and-il-weaving-to-fool-devs"
 		}
 	],
 	"credits": [
@@ -130,6 +136,13 @@
 					"1.0.13",
 					"1.0.14"
 				]
+			},
+			{
+				"id": "RLUA-2024-07755",
+				"import_time": "2024-10-24T00:58:43.373191777Z",
+				"modified_time": "2024-10-16T13:48:48Z",
+				"sha256": "8c9e3119d24d50cdf0dfdd76905b36dafeb49e7944ae46e223e17cb02067b4ae",
+				"source": "reversing-labs"
 			}
 		]
 	}

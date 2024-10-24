@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-4608",
-	"modified": "2024-06-25T13:30:45Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:30:45Z",
 	"summary": "Malicious code in Pathoschild.Stardew.Mod.BuildConfig (NuGet)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -28,6 +28,12 @@
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/nuget/pathoschild.stardew.mod.buildconfig/MAL-2024-4608.json"
 			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://www.reversinglabs.com/blog/iamreboot-malicious-nuget-packages-exploit-msbuild-loophole"
 		}
 	],
 	"credits": [
@@ -60,6 +66,13 @@
 					"6.5.1",
 					"6.2.4"
 				]
+			},
+			{
+				"id": "RLUA-2024-07711",
+				"import_time": "2024-10-24T00:58:40.507502478Z",
+				"modified_time": "2024-10-16T13:48:19Z",
+				"sha256": "9d836eb2509cf3781b6fd601c4f9d5f74330a432d9f76c3b9ce9ca37d3266b17",
+				"source": "reversing-labs"
 			}
 		]
 	}

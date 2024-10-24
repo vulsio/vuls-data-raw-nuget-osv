@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-4712",
-	"modified": "2024-06-25T13:31:57Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:31:57Z",
 	"summary": "Malicious code in ZendeskApi.Client.V2 (NuGet)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -22,6 +22,12 @@
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/nuget/zendeskapi.client.v2/MAL-2024-4712.json"
 			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://www.reversinglabs.com/blog/iamreboot-malicious-nuget-packages-exploit-msbuild-loophole"
 		}
 	],
 	"credits": [
@@ -48,6 +54,13 @@
 					"5.0.7",
 					"5.0.9"
 				]
+			},
+			{
+				"id": "RLUA-2024-07757",
+				"import_time": "2024-10-24T00:58:43.476847885Z",
+				"modified_time": "2024-10-16T13:48:49Z",
+				"sha256": "5d010994aaffcd55be7308eca2ca501c2fdbc44fbf88f7479380d8832a2da8c5",
+				"source": "reversing-labs"
 			}
 		]
 	}

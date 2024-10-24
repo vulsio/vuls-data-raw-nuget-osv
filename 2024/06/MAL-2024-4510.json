@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-4510",
-	"modified": "2024-06-25T13:29:32Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:29:32Z",
 	"summary": "Malicious code in IAmRoot (NuGet)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -24,6 +24,12 @@
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/nuget/iamroot/MAL-2024-4510.json"
 			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://www.reversinglabs.com/blog/iamreboot-malicious-nuget-packages-exploit-msbuild-loophole"
 		}
 	],
 	"credits": [
@@ -52,6 +58,13 @@
 					"1.1.2",
 					"2.0.0"
 				]
+			},
+			{
+				"id": "RLUA-2024-07669",
+				"import_time": "2024-10-24T00:58:37.706339121Z",
+				"modified_time": "2024-10-16T13:47:52Z",
+				"sha256": "0a60b4671fcc4ba5bd330d9f2e7172c527305cc7f27f37b000ad02412bcf276e",
+				"source": "reversing-labs"
 			}
 		]
 	}

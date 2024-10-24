@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "MAL-2024-4527",
-	"modified": "2024-06-25T13:29:43Z",
+	"modified": "2024-10-24T01:01:57Z",
 	"published": "2024-06-25T13:29:43Z",
 	"summary": "Malicious code in LazyProxy.Unity.Net (NuGet)",
 	"details": "\n---\n_-= Per source details. Do not edit below this line.=-_\n",
@@ -18,6 +18,12 @@
 			"database_specific": {
 				"source": "https://github.com/ossf/malicious-packages/blob/main/osv/malicious/nuget/lazyproxy.unity.net/MAL-2024-4527.json"
 			}
+		}
+	],
+	"references": [
+		{
+			"type": "ARTICLE",
+			"url": "https://www.reversinglabs.com/blog/iamreboot-malicious-nuget-packages-exploit-msbuild-loophole"
 		}
 	],
 	"credits": [
@@ -40,6 +46,13 @@
 				"versions": [
 					"1.0.2"
 				]
+			},
+			{
+				"id": "RLUA-2024-07675",
+				"import_time": "2024-10-24T00:58:38.07132937Z",
+				"modified_time": "2024-10-16T13:47:56Z",
+				"sha256": "42c76009b9d865694694691e12f81192bab1b6a128a3163f63792ff931252aa1",
+				"source": "reversing-labs"
 			}
 		]
 	}
