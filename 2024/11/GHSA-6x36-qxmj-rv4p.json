@@ -1,9 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-6x36-qxmj-rv4p",
-	"modified": "2024-11-12T23:27:13.544863Z",
+	"modified": "2024-11-20T07:57:07.744822Z",
 	"published": "2024-11-12T23:01:23Z",
 	"aliases": [
+		"BIT-dotnet-2024-43499",
+		"BIT-dotnet-sdk-2024-43499",
 		"CVE-2024-43499"
 	],
 	"summary": ".NET Denial of Service Vulnerability",

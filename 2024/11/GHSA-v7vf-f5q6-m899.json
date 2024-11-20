@@ -1,9 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-v7vf-f5q6-m899",
-	"modified": "2024-11-12T23:27:13.465267Z",
+	"modified": "2024-11-20T07:57:05.823966Z",
 	"published": "2024-11-12T23:03:15Z",
 	"aliases": [
+		"BIT-dotnet-2024-43498",
+		"BIT-dotnet-sdk-2024-43498",
 		"CVE-2024-43498"
 	],
 	"summary": ".NET Remote Code Execution Vulnerability",
