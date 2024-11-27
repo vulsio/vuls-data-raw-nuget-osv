@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-chfc-9w6m-75rf",
-	"modified": "2024-07-20T08:11:49.448771Z",
+	"modified": "2024-11-27T05:25:26.395458Z",
 	"published": "2024-07-09T21:14:23Z",
 	"aliases": [
 		"BIT-dotnet-2024-35264",
@@ -434,6 +434,6 @@
 		"github_reviewed": true,
 		"github_reviewed_at": "2024-07-09T21:14:23Z",
 		"nvd_published_at": "2024-07-09T17:15:18Z",
-		"severity": "HIGH"
+		"severity": "CRITICAL"
 	}
 }
