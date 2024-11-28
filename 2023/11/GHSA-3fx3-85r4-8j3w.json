@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3fx3-85r4-8j3w",
-	"modified": "2024-02-16T08:15:39.369605Z",
+	"modified": "2024-11-28T05:35:05.753712Z",
 	"published": "2023-11-14T20:36:55Z",
 	"aliases": [
 		"BIT-aspnet-core-2023-36558",

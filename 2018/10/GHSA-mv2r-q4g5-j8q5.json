@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-mv2r-q4g5-j8q5",
-	"modified": "2024-02-16T08:18:26.520440Z",
+	"modified": "2024-11-28T05:40:32.219218Z",
 	"published": "2018-10-16T19:58:31Z",
 	"aliases": [
 		"CVE-2018-8269"
