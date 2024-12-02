@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-m44j-cfrm-g8qc",
-	"modified": "2024-11-05T21:49:48.835345Z",
+	"modified": "2024-12-02T16:33:08.858488Z",
 	"published": "2024-05-14T15:32:54Z",
 	"aliases": [
 		"CGA-96m8-9rvf-gh6w",
@@ -24,7 +24,7 @@
 		"CGA-x3m9-g352-c98x"
 	],
 	"summary": "Bouncy Castle crafted signature and public key can be used to trigger an infinite loop",
-	"details": "An issue was discovered in Bouncy Castle Java Cryptography APIs before 1.78. An Ed25519 verification code infinite loop can occur via a crafted signature and public key.",
+	"details": "An issue was discovered in Bouncy Castle Java Cryptography APIs starting in 1.73 and before 1.78. An Ed25519 verification code infinite loop can occur via a crafted signature and public key.",
 	"severity": [
 		{
 			"type": "CVSS_V3",
@@ -47,7 +47,7 @@
 					"type": "ECOSYSTEM",
 					"events": [
 						{
-							"introduced": "0"
+							"introduced": "1.73"
 						},
 						{
 							"fixed": "1.78"
@@ -56,65 +56,11 @@
 				}
 			],
 			"versions": [
-				"1.71",
-				"1.71.1",
-				"1.72",
 				"1.73",
 				"1.74",
 				"1.75",
 				"1.76",
 				"1.77"
-			],
-			"database_specific": {
-				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/05/GHSA-m44j-cfrm-g8qc/GHSA-m44j-cfrm-g8qc.json"
-			}
-		},
-		{
-			"package": {
-				"ecosystem": "Maven",
-				"name": "org.bouncycastle:bcprov-jdk15on",
-				"purl": "pkg:maven/org.bouncycastle/bcprov-jdk15on"
-			},
-			"ranges": [
-				{
-					"type": "ECOSYSTEM",
-					"events": [
-						{
-							"introduced": "0"
-						},
-						{
-							"fixed": "1.78"
-						}
-					]
-				}
-			],
-			"versions": [
-				"1.46",
-				"1.47",
-				"1.48",
-				"1.49",
-				"1.50",
-				"1.51",
-				"1.52",
-				"1.53",
-				"1.54",
-				"1.55",
-				"1.56",
-				"1.57",
-				"1.58",
-				"1.59",
-				"1.60",
-				"1.61",
-				"1.62",
-				"1.63",
-				"1.64",
-				"1.65",
-				"1.65.01",
-				"1.66",
-				"1.67",
-				"1.68",
-				"1.69",
-				"1.70"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2024/05/GHSA-m44j-cfrm-g8qc/GHSA-m44j-cfrm-g8qc.json"
@@ -131,7 +77,7 @@
 					"type": "ECOSYSTEM",
 					"events": [
 						{
-							"introduced": "0"
+							"introduced": "1.73"
 						},
 						{
 							"fixed": "1.78"
@@ -140,16 +86,6 @@
 				}
 			],
 			"versions": [
-				"1.63",
-				"1.64",
-				"1.65",
-				"1.66",
-				"1.67",
-				"1.68",
-				"1.69",
-				"1.70",
-				"1.71",
-				"1.72",
 				"1.73",
 				"1.74",
 				"1.75",
@@ -171,7 +107,7 @@
 					"type": "ECOSYSTEM",
 					"events": [
 						{
-							"introduced": "0"
+							"introduced": "1.73"
 						},
 						{
 							"fixed": "1.78"
@@ -180,35 +116,6 @@
 				}
 			],
 			"versions": [
-				"1.38",
-				"1.43",
-				"1.44",
-				"1.45",
-				"1.46",
-				"1.47",
-				"1.48",
-				"1.49",
-				"1.50",
-				"1.51",
-				"1.53",
-				"1.54",
-				"1.55",
-				"1.56",
-				"1.57",
-				"1.58",
-				"1.59",
-				"1.60",
-				"1.61",
-				"1.62",
-				"1.63",
-				"1.64",
-				"1.65",
-				"1.67",
-				"1.68",
-				"1.69",
-				"1.70",
-				"1.71",
-				"1.72",
 				"1.73",
 				"1.74",
 				"1.75",
@@ -230,7 +137,7 @@
 					"type": "ECOSYSTEM",
 					"events": [
 						{
-							"introduced": "0"
+							"introduced": "1.73"
 						},
 						{
 							"fixed": "1.78"
@@ -239,9 +146,6 @@
 				}
 			],
 			"versions": [
-				"1.71",
-				"1.71.1",
-				"1.72",
 				"1.73",
 				"1.74",
 				"1.75",
@@ -263,7 +167,7 @@
 					"type": "ECOSYSTEM",
 					"events": [
 						{
-							"introduced": "0"
+							"introduced": "1.73"
 						},
 						{
 							"fixed": "1.78"
@@ -272,17 +176,6 @@
 				}
 			],
 			"versions": [
-				"1.61",
-				"1.62",
-				"1.63",
-				"1.64",
-				"1.65",
-				"1.67",
-				"1.68",
-				"1.69",
-				"1.70",
-				"1.71",
-				"1.72",
 				"1.73",
 				"1.74",
 				"1.75",
@@ -304,7 +197,7 @@
 					"type": "ECOSYSTEM",
 					"events": [
 						{
-							"introduced": "0"
+							"introduced": "1.73"
 						},
 						{
 							"fixed": "1.78"
@@ -313,16 +206,6 @@
 				}
 			],
 			"versions": [
-				"1.63",
-				"1.64",
-				"1.65",
-				"1.66",
-				"1.67",
-				"1.68",
-				"1.69",
-				"1.70",
-				"1.71",
-				"1.72",
 				"1.73",
 				"1.74",
 				"1.75",
@@ -402,6 +285,10 @@
 		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-30172"
+		},
+		{
+			"type": "WEB",
+			"url": "https://github.com/bcgit/bc-java/commit/1b9fd9b545e691bfb3941a9f6a797660c8860f02"
 		},
 		{
 			"type": "WEB",
