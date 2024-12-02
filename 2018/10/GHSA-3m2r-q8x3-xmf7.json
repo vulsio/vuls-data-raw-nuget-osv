@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3m2r-q8x3-xmf7",
-	"modified": "2023-04-11T01:48:36.320366Z",
+	"modified": "2024-12-02T05:42:57.845950Z",
 	"published": "2018-10-16T19:59:48Z",
 	"summary": "Moderate severity vulnerability that affects Microsoft.AspNetCore.All, Microsoft.AspNetCore.Server.Kestrel.Core, Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions, and Microsoft.AspNetCore.Server.Kestrel.Transport.Libuv",
 	"details": "Microsoft made an internal discovery of a security vulnerability in version 2.x of ASP.NET Core where\na specially crafted request can cause excess resource consumption in Kestrel.\n",

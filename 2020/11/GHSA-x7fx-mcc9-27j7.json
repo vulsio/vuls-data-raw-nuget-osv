@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-x7fx-mcc9-27j7",
-	"modified": "2023-11-08T04:02:38.888835Z",
+	"modified": "2024-12-02T05:44:20.932119Z",
 	"published": "2020-11-27T20:12:55Z",
 	"aliases": [
 		"CVE-2020-16013"

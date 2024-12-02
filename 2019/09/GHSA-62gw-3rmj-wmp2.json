@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-62gw-3rmj-wmp2",
-	"modified": "2023-11-08T04:01:07.044587Z",
+	"modified": "2024-12-02T05:36:32.232298Z",
 	"published": "2019-09-13T13:25:47Z",
 	"aliases": [
 		"CVE-2019-1301"

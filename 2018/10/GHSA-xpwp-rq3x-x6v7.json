@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-xpwp-rq3x-x6v7",
-	"modified": "2023-11-08T03:58:41.043596Z",
+	"modified": "2024-12-02T05:48:02.886912Z",
 	"published": "2018-10-16T17:35:04Z",
 	"aliases": [
 		"CVE-2017-0907"
