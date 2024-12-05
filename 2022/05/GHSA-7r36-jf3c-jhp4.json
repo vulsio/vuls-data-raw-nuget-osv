@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-7r36-jf3c-jhp4",
-	"modified": "2024-02-16T07:44:35.171575Z",
+	"modified": "2024-12-05T05:43:26.356328Z",
 	"published": "2022-05-13T01:50:31Z",
 	"summary": "Duplicate Advisory: tgstation-server vulnerable to cached user logins in legacy server",
 	"details": "## Duplicate Advisory\nThis advisory has been withdrawn because it is a duplicate of GHSA-42r6-p4px-qvv6. This link is maintained to preserve external references.\n\n## Original Description\nIn Tgstation tgstation-server 3.2.4.0 through 3.2.1.0 (fixed in 3.2.5.0), active logins would be cached, allowing subsequent logins to succeed with any username or password.",
