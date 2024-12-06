@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-qrmm-w75w-3wpx",
-	"modified": "2024-02-16T08:07:51.734926Z",
+	"modified": "2024-12-06T05:30:33.230386Z",
 	"published": "2021-12-09T19:08:38Z",
 	"related": [
 		"CGA-3236-3h5p-c37r"
