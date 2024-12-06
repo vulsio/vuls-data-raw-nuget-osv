@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8xfc-gm6g-vgpv",
-	"modified": "2024-10-22T05:29:00.573614Z",
+	"modified": "2024-12-06T15:48:32.838321Z",
 	"published": "2024-05-14T15:32:54Z",
 	"aliases": [
 		"CGA-h49m-7vwx-446f",
@@ -450,6 +450,10 @@
 		{
 			"type": "WEB",
 			"url": "https://github.com/bcgit/bc-java/wiki/CVE%E2%80%902024%E2%80%9029857"
+		},
+		{
+			"type": "WEB",
+			"url": "https://security.netapp.com/advisory/ntap-20241206-0008"
 		},
 		{
 			"type": "WEB",
