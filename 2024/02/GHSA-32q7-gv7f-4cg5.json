@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-32q7-gv7f-4cg5",
-	"modified": "2024-04-15T19:48:37.185880Z",
+	"modified": "2024-12-07T05:40:57.444439Z",
 	"published": "2024-02-13T18:38:24Z",
 	"summary": "Duplicate Advisory: Microsoft Security Advisory CVE-2024-21386: .NET Denial of Service Vulnerability",
 	"details": "## Duplicate Advisory\nThis advisory has been withdrawn because it is a duplicate of GHSA-g74q-5xw3-j7q9. This link is maintained to preserve external references.\n\n## Original Description\n.NET Denial of Service Vulnerability",
