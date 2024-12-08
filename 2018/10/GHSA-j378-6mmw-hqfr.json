@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-j378-6mmw-hqfr",
-	"modified": "2023-11-08T04:00:28.099184Z",
+	"modified": "2024-12-08T05:35:01.792231Z",
 	"published": "2018-10-16T19:56:38Z",
 	"aliases": [
 		"CVE-2018-8409"
