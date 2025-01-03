@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-3rq8-h3gj-r5c6",
-	"modified": "2024-02-21T05:33:40.006497Z",
+	"modified": "2025-01-02T22:01:04.100154Z",
 	"published": "2022-08-30T19:32:29Z",
 	"aliases": [
 		"BIT-dotnet-2022-29117",
@@ -1561,7 +1561,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-29117"
+			"url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-29117"
 		}
 	],
 	"database_specific": {

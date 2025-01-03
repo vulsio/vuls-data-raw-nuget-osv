@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-485p-mrj5-8w2v",
-	"modified": "2024-02-22T05:33:15.403662Z",
+	"modified": "2025-01-02T22:02:13.714562Z",
 	"published": "2022-10-21T20:50:24Z",
 	"aliases": [
 		"BIT-dotnet-2022-23267",
@@ -1409,7 +1409,7 @@
 		},
 		{
 			"type": "WEB",
-			"url": "https://portal.msrc.microsoft.com/en-US/security-guidance/advisory/CVE-2022-23267"
+			"url": "https://msrc.microsoft.com/update-guide/vulnerability/CVE-2022-23267"
 		}
 	],
 	"database_specific": {
