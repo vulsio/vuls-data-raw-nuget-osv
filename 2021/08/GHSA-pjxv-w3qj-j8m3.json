@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-pjxv-w3qj-j8m3",
-	"modified": "2023-11-08T04:05:08.312729Z",
+	"modified": "2025-01-14T09:11:59.923295Z",
 	"published": "2021-08-09T20:42:13Z",
 	"aliases": [
-		"CVE-2021-23415",
-		"SNYK-DOTNET-ELFINDERASPNET-1315153"
+		"CVE-2021-23415"
 	],
 	"summary": "Directory Traversal in elFinder.AspNet",
 	"details": "This affects the package elFinder.AspNet before 1.1.1.\n The user-controlled file name is not properly sanitized before it is used to create a file system path.\n\n",

@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-7378-6268-4278",
-	"modified": "2024-12-02T05:51:07.720902Z",
+	"modified": "2025-01-14T07:27:12.499705Z",
 	"published": "2018-10-16T17:16:40Z",
 	"aliases": [
-		"CVE-2018-1002205",
-		"SNYK-DOTNET-DOTNETZIP-60245"
+		"CVE-2018-1002205"
 	],
 	"summary": "High severity vulnerability that affects DotNetZip",
 	"details": "DotNetZip.Semvered before 1.11.0 is vulnerable to directory traversal, allowing attackers to write to arbitrary files via a ../ (dot dot slash) in a Zip archive entry that is mishandled during extraction. This vulnerability is also known as 'Zip-Slip'.",

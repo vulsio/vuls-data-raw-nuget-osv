@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2020-11005"
 	],
+	"related": [
+		"CVE-2020-11005"
+	],
 	"summary": "Internal NCryptDecrypt method could be used externally from WindowsHello library.",
 	"details": "### Impact\nEvery user of the library before version 1.0.4.\n\n### Patches\nPatched in 1.0.4+.\n\n### Workarounds\nNone.\n\n### References\nhttps://github.com/SeppPenner/WindowsHello/issues/3\n\n### For more information\nIt this library is used to encrypt text and write the output to a txt file, another executable could be able to decrypt the text using the static method NCryptDecrypt from this same library  without the need to use Windows Hello Authentication again.",
 	"severity": [

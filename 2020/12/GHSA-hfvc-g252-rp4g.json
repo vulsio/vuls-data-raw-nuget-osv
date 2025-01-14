@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-hfvc-g252-rp4g",
-	"modified": "2023-11-08T04:04:10.700134Z",
+	"modified": "2025-01-14T08:57:13.913700Z",
 	"published": "2020-12-14T19:50:22Z",
 	"aliases": [
-		"CVE-2020-7791",
-		"SNYK-DOTNET-I18N-1050179"
+		"CVE-2020-7791"
 	],
 	"summary": "Denial of Service in i18n",
 	"details": "This affects the package i18n before version 2.1.15. Vulnerability arises out of insufficient handling of erroneous language tags in src/i18n/Concrete/TextLocalizer.cs and src/i18n/LocalizedApplication.cs.",

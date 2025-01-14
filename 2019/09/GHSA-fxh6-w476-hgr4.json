@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-fxh6-w476-hgr4",
-	"modified": "2023-11-08T03:59:42.534603Z",
+	"modified": "2025-01-14T07:27:05.464229Z",
 	"published": "2019-09-11T22:59:57Z",
 	"aliases": [
-		"CVE-2018-1002206",
-		"SNYK-DOTNET-SHARPCOMPRESS-60246"
+		"CVE-2018-1002206"
 	],
 	"summary": "Directory Traversal in SharpCompress",
 	"details": "SharpCompress prior to version 0.21 is vulnerable to path traversal issue in archive extraction.",

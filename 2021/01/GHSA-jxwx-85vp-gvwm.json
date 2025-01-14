@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2021-21252"
 	],
+	"related": [
+		"CVE-2021-21252"
+	],
 	"summary": "Regular Expression Denial of Service in jquery-validation",
 	"details": "The GitHub Security Lab team has identified potential security vulnerabilities in jquery.validation.\n\nThe project contains one or more regular expressions that are vulnerable to ReDoS (Regular Expression Denial of Service)\n\nThis issue was discovered and reported by GitHub team member @erik-krogh (Erik Krogh Kristensen).",
 	"severity": [

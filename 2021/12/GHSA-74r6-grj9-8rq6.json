@@ -1,11 +1,10 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-74r6-grj9-8rq6",
-	"modified": "2024-02-16T08:18:56.559949Z",
+	"modified": "2025-01-14T09:12:13.509273Z",
 	"published": "2021-12-16T15:27:55Z",
 	"aliases": [
-		"CVE-2021-23758",
-		"SNYK-DOTNET-AJAXPRO2-1925971"
+		"CVE-2021-23758"
 	],
 	"summary": "Remote Code Execution in AjaxNetProfessional",
 	"details": "All versions of package ajaxpro.2 are vulnerable to Deserialization of Untrusted Data due to the possibility of deserialization of arbitrary .NET classes, which can be abused to gain remote code execution.",
