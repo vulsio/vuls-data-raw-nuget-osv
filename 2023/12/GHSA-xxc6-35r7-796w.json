@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2023-38694"
 	],
+	"related": [
+		"CVE-2023-38694"
+	],
 	"summary": "Possible injection of HTML into user invite mails",
 	"details": "#### Impact\nA user with access to a specific part of the backoffice is able to inject HTML code into a form where it is not intended.\n\n#### Explanation of the vulnerability \nA person with access to the backoffice and the \"users\" section could send a user invite and inject HTML code into the invite message.",
 	"severity": [

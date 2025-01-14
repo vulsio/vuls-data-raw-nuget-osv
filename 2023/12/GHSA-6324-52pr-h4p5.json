@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2023-49089"
 	],
+	"related": [
+		"CVE-2023-49089"
+	],
 	"summary": "Using the directory back payload (“/../”) in a package name allows placement of package in other folders.",
 	"details": "#### Impact\nBackoffice users with permissions to create packages can use path traversal and thereby write outside of the expected location.\n\n#### Explanation of the vulnerability \nThe “Package” section in Umbraco Backoffice allows a logged in user to write folders outside of the default package directory.",
 	"severity": [

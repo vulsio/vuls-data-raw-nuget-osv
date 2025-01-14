@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2024-41131"
 	],
+	"related": [
+		"CVE-2024-41131"
+	],
 	"summary": "SixLabors ImageSharp Out-of-bounds Write",
 	"details": "### Impact\nAn Out-of-bounds Write vulnerability has been found in the ImageSharp gif decoder, allowing attackers to cause a crash using a specially crafted gif. This can potentially lead to denial of service.\n\n### Patches\nThe problem has been patched. All users are advised to upgrade to v3.1.5 or v2.1.9.\n\n### Workarounds\nNone.\n\n### References\nhttps://github.com/SixLabors/ImageSharp/pull/2754\nhttps://github.com/SixLabors/ImageSharp/pull/2756\n",
 	"severity": [

@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2023-49274"
 	],
+	"related": [
+		"CVE-2023-49274"
+	],
 	"summary": "SMTP misconfiguration leading to \"Forgot Password\" exploit that leaks registered user email. ",
 	"details": "#### Impact\nA user enumeration attack is possible when SMTP is not setup correctly, but reset password is enabled\n\n#### Explanation of the vulnerability \nTwo different error messages was shown, based on if the user exists or not when using the forgot password functionality, when the SMTP was configured but do not response.",
 	"severity": [

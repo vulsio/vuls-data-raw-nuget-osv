@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2024-34071"
 	],
+	"related": [
+		"CVE-2024-34071"
+	],
 	"summary": "Umbraco CMS Open Redirect Bypass Protection  ",
 	"details": "### Impact\nUmbraco have an endpoint that is vulnerable to open redirects. The endpoint is protected so it requires the user to be signed into backoffice, before the vulnerability is exposed.\n\n### Affected Version\n\n\\>= 8.18.5, >= 10.5.0, >= 12.0.0, >= 13.0.0\n\n### Patches\n8.18.14, 10.8.6, 12.3.10, 13.3.1",
 	"severity": [

@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2023-48227"
 	],
+	"related": [
+		"CVE-2023-48227"
+	],
 	"summary": "Backoffice User can bypass \"Publish\" restriction",
 	"details": "#### Impact\nBackoffice users with send for approval permission but not publish permission are able to publish in some scenarios.\n\n#### Explanation of the vulnerability \nBackoffice users without permission to publish content, but only to send for approval, can bypass the restriction by modifying the request body of the \"Send for Approval\" request.",
 	"severity": [

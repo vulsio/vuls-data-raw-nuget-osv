@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2023-37267"
 	],
+	"related": [
+		"CVE-2023-37267"
+	],
 	"summary": "Umbraco allows possible Admin-level access to backoffice without Auth under rare conditions",
 	"details": "Under rare conditions, a restart of Umbraco can allow unauthorized users to gain admin-level permissions.\n\n### Impact\nAn unauthorized user gaining admin-level access and permissions to the backoffice.\n\n### Patches\n10.6.1, 11.4.2, 12.0.1\n\n### Workarounds\n* Enabling the [Unattended Install](https://docs.umbraco.com/umbraco-cms/reference/configuration/unattendedsettings) feature will mean the vulnerability is not exploitable.\n* Enabling IP restrictions to `*/install/*` and `*/umbraco/*` will limit the exposure to allowed IP addresses.\n",
 	"severity": [

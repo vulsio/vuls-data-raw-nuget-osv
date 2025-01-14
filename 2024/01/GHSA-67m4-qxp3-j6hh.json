@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2024-23838"
 	],
+	"related": [
+		"CVE-2024-23838"
+	],
 	"summary": "TrueLayer.Client SSRF when fetching payment or payment provider",
 	"details": "### Impact\nThe vulnerability could potentially allow a malicious actor to gain control over the destination URL of the HttpClient used in the API classes. For applications using the SDK, requests to unexpected resources on local networks or to the internet could be made which could lead to information disclosure.\n\n### Patches\nVersions of TrueLayer.Client `v1.6.0` and later are not affected.\n\n### Workarounds\nThe issue can be mitigated by having strict egress rules limiting the destinations to which requests can be made, and applying strict validation to any user input passed to the TrueLayer.Client library.",
 	"severity": [

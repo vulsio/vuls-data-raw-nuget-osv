@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2024-32036"
 	],
+	"related": [
+		"CVE-2024-32036"
+	],
 	"summary": "SixLabors.ImageSharp vulnerable to data leakage",
 	"details": "### Impact\nA data leakage flaw was found in ImageSharp's JPEG and TGA decoders. This vulnerability is triggered when an attacker passes a specially crafted JPEG or TGA image file to a software using ImageSharp, potentially disclosing sensitive information from other parts of the software in the resulting image buffer.\n\n### Patches\nThe problem has been patched. All users are advised to upgrade to v3.1.4 or v2.1.8.\n\n### Workarounds\nNone\n\n### References\nNone\n",
 	"severity": [

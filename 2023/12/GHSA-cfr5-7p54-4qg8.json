@@ -6,6 +6,9 @@
 	"aliases": [
 		"CVE-2023-49273"
 	],
+	"related": [
+		"CVE-2023-49273"
+	],
 	"summary": "Privilege Escalation using Spoofing",
 	"details": "#### Impact\nUsers with low privileges ( Editor, etc) are able to access some unintended endpoints.\n\n#### Explanation of the vulnerability \nPossible to delete redirect urls, when disabled by admin with only access to backoffice\nPossible to access the examine dashboard with only access to backoffice\nPossible to access the published cache dashboard with only access to backoffice\nPossible to access the telemetry dashboard with only access to backoffice\nPossible to access the languages with only access to backoffice\nPossible to access the stylesheets with only access to backoffice",
 	"severity": [
