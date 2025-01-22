@@ -1,10 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4gmq-m9vp-jrwg",
-	"modified": "2024-11-04T23:42:19.685333Z",
+	"modified": "2025-01-22T10:11:53.102844Z",
 	"published": "2024-11-04T06:30:30Z",
 	"aliases": [
-		"CVE-2024-10761"
+		"CVE-2024-10761",
+		"GHSA-69cg-w8vm-h229"
 	],
 	"summary": "Umbraco CMS Cross-site Scripting vulnerability",
 	"details": "A vulnerability was found in Umbraco CMS 12.3.6. It has been classified as problematic. Affected is an unknown function of the file /Umbraco/preview/frame?id{} of the component Dashboard. The manipulation of the argument culture leads to cross site scripting. It is possible to launch the attack remotely. The exploit has been disclosed to the public and may be used.",
