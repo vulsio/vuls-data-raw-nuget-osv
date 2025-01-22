@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-4gmq-m9vp-jrwg",
-	"modified": "2025-01-22T10:11:53.102844Z",
+	"modified": "2025-01-22T17:47:59.029565Z",
 	"published": "2024-11-04T06:30:30Z",
 	"aliases": [
 		"CVE-2024-10761",
@@ -79,6 +79,7 @@
 				"10.8.5",
 				"10.8.6",
 				"10.8.7",
+				"10.8.8",
 				"11.0.0",
 				"11.0.0-rc4",
 				"11.0.0-rc5",
@@ -155,8 +156,16 @@
 	],
 	"references": [
 		{
+			"type": "WEB",
+			"url": "https://github.com/umbraco/Umbraco-CMS/security/advisories/GHSA-69cg-w8vm-h229"
+		},
+		{
 			"type": "ADVISORY",
 			"url": "https://nvd.nist.gov/vuln/detail/CVE-2024-10761"
+		},
+		{
+			"type": "WEB",
+			"url": "https://drive.google.com/file/d/1YoZgdlS3QT7Xu005j9RO-FFUT8RbB0Da/view?usp=sharing"
 		},
 		{
 			"type": "PACKAGE",
