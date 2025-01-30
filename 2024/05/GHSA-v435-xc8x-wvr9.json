@@ -22,6 +22,7 @@
 		"CGA-gfj5-2q78-6f2f",
 		"CGA-h543-7w38-mv7r",
 		"CGA-j49x-3x3f-7v84",
+		"CGA-jjp7-6mw2-545w",
 		"CGA-vwqh-4f8x-m5r2"
 	],
 	"summary": "Bouncy Castle affected by timing side-channel for RSA key exchange (\"The Marvin Attack\")",
