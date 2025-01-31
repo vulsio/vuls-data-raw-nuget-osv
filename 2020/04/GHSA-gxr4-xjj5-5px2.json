@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-gxr4-xjj5-5px2",
-	"modified": "2024-11-05T20:22:08.416894Z",
+	"modified": "2025-01-30T22:50:31.198292Z",
 	"published": "2020-04-29T22:18:55Z",
 	"aliases": [
 		"BIT-drupal-2020-11022",
@@ -364,6 +364,53 @@
 				"v1.18.0",
 				"v1.18.1",
 				"v1.18.2"
+			],
+			"database_specific": {
+				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2020/04/GHSA-gxr4-xjj5-5px2/GHSA-gxr4-xjj5-5px2.json"
+			}
+		},
+		{
+			"package": {
+				"ecosystem": "Packagist",
+				"name": "athlon1600/youtube-downloader",
+				"purl": "pkg:composer/athlon1600/youtube-downloader"
+			},
+			"ranges": [
+				{
+					"type": "ECOSYSTEM",
+					"events": [
+						{
+							"introduced": "0"
+						},
+						{
+							"last_affected": "4.0.0"
+						}
+					]
+				}
+			],
+			"versions": [
+				"v1.0.0",
+				"v1.0.1",
+				"v2.0.0",
+				"v2.0.1",
+				"v2.0.2",
+				"v2.0.3",
+				"v2.0.4",
+				"v2.0.5",
+				"v2.0.6",
+				"v2.0.7",
+				"v2.0.8",
+				"v2.0.9",
+				"v2.1.0",
+				"v2.1.1",
+				"v2.1.2",
+				"v3.0.0",
+				"v3.0.1",
+				"v3.0.2",
+				"v3.1.0",
+				"v3.1.1",
+				"v3.1.2",
+				"v4.0.0"
 			],
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2020/04/GHSA-gxr4-xjj5-5px2/GHSA-gxr4-xjj5-5px2.json"
