@@ -1,9 +1,11 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-gjf6-3w4p-7xfh",
-	"modified": "2025-01-14T20:12:07.616762Z",
+	"modified": "2025-02-06T11:12:05.580576Z",
 	"published": "2025-01-14T19:46:14Z",
 	"aliases": [
+		"BIT-dotnet-2025-21176",
+		"BIT-dotnet-sdk-2025-21176",
 		"CVE-2025-21176"
 	],
 	"summary": "Microsoft Security Advisory CVE-2025-21176 | .NET and Visual Studio Remote Code Execution Vulnerability",
