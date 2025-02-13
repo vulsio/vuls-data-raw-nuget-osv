@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-8hfj-j24r-96c4",
-	"modified": "2024-02-17T05:35:49.257793Z",
+	"modified": "2025-02-13T05:31:11.655330Z",
 	"published": "2022-04-04T21:25:48Z",
 	"aliases": [
 		"CVE-2022-24785"
@@ -37,11 +37,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(moment).locale"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/04/GHSA-8hfj-j24r-96c4/GHSA-8hfj-j24r-96c4.json"
 			}

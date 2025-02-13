@@ -34,11 +34,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(set-value).validateKey"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2021/09/GHSA-4jqc-8m5r-9rpr/GHSA-4jqc-8m5r-9rpr.json"
 			}
@@ -85,11 +80,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(set-value).validateKey"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2021/09/GHSA-4jqc-8m5r-9rpr/GHSA-4jqc-8m5r-9rpr.json"
 			}
@@ -113,11 +103,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(set-value).validateKey"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2021/09/GHSA-4jqc-8m5r-9rpr/GHSA-4jqc-8m5r-9rpr.json"
 			}
