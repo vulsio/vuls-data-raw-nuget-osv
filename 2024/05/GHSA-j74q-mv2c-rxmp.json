@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-j74q-mv2c-rxmp",
-	"modified": "2024-05-21T15:47:48.489433Z",
+	"modified": "2025-02-12T18:54:13.604277Z",
 	"published": "2024-05-21T14:29:18Z",
 	"aliases": [
 		"CVE-2024-34071"
