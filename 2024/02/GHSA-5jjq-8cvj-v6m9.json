@@ -1,13 +1,19 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-5jjq-8cvj-v6m9",
-	"modified": "2024-12-07T05:40:44.561456Z",
+	"modified": "2025-02-13T19:37:20.708682Z",
 	"published": "2024-02-19T06:30:33Z",
 	"aliases": [
 		"CVE-2024-26318"
 	],
 	"summary": "Cross-site Scripting in Serenity",
 	"details": "Serenity before 6.8.0 allows XSS via an email link because LoginPage.tsx permits return URLs that do not begin with a / character.",
+	"severity": [
+		{
+			"type": "CVSS_V3",
+			"score": "CVSS:3.1/AV:N/AC:L/PR:N/UI:R/S:C/C:L/I:L/A:N"
+		}
+	],
 	"affected": [
 		{
 			"package": {
