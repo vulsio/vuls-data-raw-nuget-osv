@@ -1,7 +1,7 @@
 {
 	"schema_version": "1.6.0",
 	"id": "GHSA-wc69-rhjr-hc9g",
-	"modified": "2025-01-14T11:42:15.693236Z",
+	"modified": "2025-02-15T05:45:55.264911Z",
 	"published": "2022-07-06T18:38:49Z",
 	"aliases": [
 		"CVE-2022-31129"
@@ -38,11 +38,6 @@
 					]
 				}
 			],
-			"ecosystem_specific": {
-				"affected_functions": [
-					"(moment)"
-				]
-			},
 			"database_specific": {
 				"source": "https://github.com/github/advisory-database/blob/main/advisories/github-reviewed/2022/07/GHSA-wc69-rhjr-hc9g/GHSA-wc69-rhjr-hc9g.json"
 			}
